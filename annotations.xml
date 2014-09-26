@@ -1,4510 +1,3609 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Annotations start="0" num="901" total="901">
+<Annotations>
   <Annotation about="titlovi.com/titlovi/*-*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="字幕" />
-    <AdditionalData attribute="original_url" value="titlovi.com/titlovi/*-*" />
   </Annotation>
   <Annotation about="en.titlovi.com/subtitles/*-*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="字幕" />
-    <AdditionalData attribute="original_url" value="en.titlovi.com/subtitles/*-*" />
   </Annotation>
   <Annotation about="dbfansub.com/tvshow/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="字幕" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="dbfansub.com/tvshow/*.html" />
   </Annotation>
   <Annotation about="dbfansub.com/movie/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="字幕" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="dbfansub.com/movie/*.html" />
   </Annotation>
   <Annotation about="torrentz.to/*-torrent-download-*.php">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrentz.to/*-torrent-download-*.php" />
   </Annotation>
   <Annotation about="torrentz.ms/*-torrent-download-*.php">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrentz.ms/*-torrent-download-*.php" />
   </Annotation>
   <Annotation about="bookfb2.ru/?p=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="bookfb2.ru/?p=*" />
   </Annotation>
   <Annotation about="mp4ba.com/show.php?hash=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="mp4ba.com/show.php?hash=*" />
   </Annotation>
   <Annotation about="t00y.com/file/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="t00y.com/file/*" />
   </Annotation>
   <Annotation about="btindex.org/files/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="btindex.org/files/*" />
   </Annotation>
   <Annotation about="btindex.org/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="btindex.org/torrent/*" />
   </Annotation>
   <Annotation about="nfil.es/a/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="nfil.es/a/*" />
   </Annotation>
   <Annotation about="shuge.org/ebook/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="shuge.org/ebook/*" />
   </Annotation>
   <Annotation about="31bt.com/Item/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="31bt.com/Item/*" />
   </Annotation>
   <Annotation about="superbay.net/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="superbay.net/torrent/*" />
   </Annotation>
   <Annotation about="shoujikz.com/share/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="shoujikz.com/share/*" />
   </Annotation>
   <Annotation about="torrentz.ch/*=">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.ch/*=" />
   </Annotation>
   <Annotation about="torrentz.ch/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.ch/*-" />
   </Annotation>
   <Annotation about="torrentz.ch/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrentz.ch/*" />
   </Annotation>
   <Annotation about="520bt.com/Item/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="520bt.com/Item/*" />
   </Annotation>
   <Annotation about="210.37.32.28/bookdetail.asp?bkid=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="210.37.32.28/bookdetail.asp?bkid=*" />
   </Annotation>
   <Annotation about="chnxp.com.cn/soft/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="chnxp.com.cn/soft/*.html" />
   </Annotation>
   <Annotation about="staffempire.com/siteinfo/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="staffempire.com/siteinfo/*.html" />
   </Annotation>
   <Annotation about="haodoo.net/?M=Share&amp;P=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="haodoo.net/?M=Share&amp;P=*" />
   </Annotation>
   <Annotation about="lib.freescienceengineering.org/view.php?id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="lib.freescienceengineering.org/view.php?id=*" />
   </Annotation>
   <Annotation about="fmscg.com/*/v_*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="fmscg.com/*/v_*.html" />
   </Annotation>
   <Annotation about="zetorrents.com/find/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="zetorrents.com/find/*" />
   </Annotation>
   <Annotation about="zetorrents.com/torrents/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="zetorrents.com/torrents/*" />
   </Annotation>
   <Annotation about="cpasbien.me/dl-torrent/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="cpasbien.me/dl-torrent/*.html" />
   </Annotation>
   <Annotation about="king-torrent.su/*/torrent-*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="king-torrent.su/*/torrent-*.html" />
   </Annotation>
   <Annotation about="smartorrent.com/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="smartorrent.com/torrent/*" />
   </Annotation>
   <Annotation about="search-torrent.com/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="search-torrent.com/torrent/*" />
   </Annotation>
   <Annotation about="torrentfrancais.com/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrentfrancais.com/torrent/*" />
   </Annotation>
   <Annotation about="realtorrentz.com/details.php?id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="realtorrentz.com/details.php?id=*" />
   </Annotation>
   <Annotation about="*.codeplex.com/releases/view/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="*.codeplex.com/releases/view/*" />
   </Annotation>
   <Annotation about="cslibrary.stanford.edu/*.pdf">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="cslibrary.stanford.edu/*.pdf" />
   </Annotation>
   <Annotation about="aupress.ca/index.php/books/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="aupress.ca/index.php/books/*" />
   </Annotation>
   <Annotation about="infoq.com/minibooks/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="infoq.com/minibooks/*" />
   </Annotation>
   <Annotation about="bts.to/*-tf*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="bts.to/*-tf*.html" />
   </Annotation>
   <Annotation about="torrentkitty.org/torrent/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrentkitty.org/torrent/*.html" />
   </Annotation>
   <Annotation about="torrentkitty.org/information/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrentkitty.org/information/*" />
   </Annotation>
   <Annotation about="btbook.net/detail/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="btbook.net/detail/*" />
   </Annotation>
   <Annotation about="lengziyuan.com/detail/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="lengziyuan.com/detail/*" />
   </Annotation>
   <Annotation about="demonoid.ph/files/details/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="demonoid.ph/files/details/*" />
   </Annotation>
   <Annotation about="*.torrentz.pro/*-download-torrent-*.php">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="*.torrentz.pro/*-download-torrent-*.php" />
   </Annotation>
   <Annotation about="h31bt.com/btshow.aspx?hash=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="h31bt.com/btshow.aspx?hash=*" />
   </Annotation>
   <Annotation about="h31bt.com/torrent/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="h31bt.com/torrent/*.html" />
   </Annotation>
   <Annotation about="btup.net/info/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="btup.net/info/*" />
   </Annotation>
   <Annotation about="yifysubtitles.com/movie-imdb/tt*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="字幕" />
-    <AdditionalData attribute="original_url" value="yifysubtitles.com/movie-imdb/tt*" />
   </Annotation>
   <Annotation about="yifysubtitles.com/subtitles/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="字幕" />
-    <AdditionalData attribute="original_url" value="yifysubtitles.com/subtitles/*" />
   </Annotation>
   <Annotation about="ffpan.com/share-*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="ffpan.com/share-*.html" />
   </Annotation>
   <Annotation about="torrent.zoozle.org/download.php?n=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrent.zoozle.org/download.php?n=*" />
   </Annotation>
   <Annotation about="emule.zoozle.org/download.php?n=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="emule.zoozle.org/download.php?n=*" />
   </Annotation>
   <Annotation about="titanmule.to/*ed2k*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="titanmule.to/*ed2k*.html" />
   </Annotation>
   <Annotation about="macupdate.com/app/mac/*/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="macupdate.com/app/mac/*/*" />
   </Annotation>
   <Annotation about="filestube.to/*/">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filestube.to/*/" />
   </Annotation>
   <Annotation about="filestube.to/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="filestube.to/*" />
   </Annotation>
   <Annotation about="eztv-proxy.net/shows/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="eztv-proxy.net/shows/*" />
   </Annotation>
   <Annotation about="eztv-proxy.net/ep/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="eztv-proxy.net/ep/*" />
   </Annotation>
   <Annotation about="changlai.net/?/file/view-*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="changlai.net/?/file/view-*.html" />
   </Annotation>
   <Annotation about="sourceforge.net/projects/*/files/*/download">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="sourceforge.net/projects/*/files/*/download" />
   </Annotation>
   <Annotation about="pc6.com/azyx/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="pc6.com/azyx/*.html" />
   </Annotation>
   <Annotation about="pc6.com/az/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="pc6.com/az/*.html" />
   </Annotation>
   <Annotation about="skycn.com/soft/appid/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="skycn.com/soft/appid/*.html" />
   </Annotation>
   <Annotation about="firedrive.com/share/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="firedrive.com/share/*" />
   </Annotation>
   <Annotation about="bundles.bittorrent.com/bundles/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="bundles.bittorrent.com/bundles/*" />
   </Annotation>
   <Annotation about="ebooks.adelaide.edu.au/*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ebooks.adelaide.edu.au/*.html" />
   </Annotation>
   <Annotation about="ebooks.adelaide.edu.au/meta/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ebooks.adelaide.edu.au/meta/*" />
   </Annotation>
   <Annotation about="ebooks.adelaide.edu.au/*/">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="ebooks.adelaide.edu.au/*/" />
   </Annotation>
   <Annotation about="share.weiyun.com/*.">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="share.weiyun.com/*." />
   </Annotation>
   <Annotation about="share.weiyun.com/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="share.weiyun.com/*" />
   </Annotation>
   <Annotation about="*.nyaa.se/?page=torrentinfo&amp;tid=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="*.nyaa.se/?page=torrentinfo&amp;tid=*" />
   </Annotation>
   <Annotation about="*.nyaa.se/?page=view&amp;tid=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="*.nyaa.se/?page=view&amp;tid=*" />
   </Annotation>
   <Annotation about="torrentdb.li/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrentdb.li/*.html" />
   </Annotation>
   <Annotation about="librivox.org/*-*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="librivox.org/*-*" />
   </Annotation>
   <Annotation about="haodoo.net/?M=book&amp;P=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="haodoo.net/?M=book&amp;P=*" />
   </Annotation>
   <Annotation about="e-booksdirectory.com/details.php?ebook=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="e-booksdirectory.com/details.php?ebook=*" />
   </Annotation>
   <Annotation about="phdproxy.com/index.php?page=torrent-details&amp;id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="phdproxy.com/index.php?page=torrent-details&amp;id=*" />
   </Annotation>
   <Annotation about="ebooks.cawok.pro/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="ebooks.cawok.pro" />
   </Annotation>
   <Annotation about="simpled2k.com/entries/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="simpled2k.com/entries/*" />
   </Annotation>
   <Annotation about="pan.baidu.com/netdisk/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="pan.baidu.com/netdisk/*" />
   </Annotation>
   <Annotation about="pan.baidu.com/wap/link?*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="pan.baidu.com/wap/link?*" />
   </Annotation>
   <Annotation about="getcd.org/topic/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="getcd.org/topic/*" />
   </Annotation>
   <Annotation about="as.baidu.com/a/item?docid=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="as.baidu.com/a/item?docid=*" />
   </Annotation>
   <Annotation about="onlytorrents.com/download*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="onlytorrents.com/download*" />
   </Annotation>
   <Annotation about="extratorrent.cc/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="extratorrent.cc/torrent/*" />
   </Annotation>
   <Annotation about="torrented.com/bittorrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrented.com/bittorrent/*" />
   </Annotation>
   <Annotation about="psychocydd.co.uk/details.php?id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="音乐" />
-    <AdditionalData attribute="original_url" value="psychocydd.co.uk/details.php?id=*" />
   </Annotation>
   <Annotation about="h33t.to/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="h33t.to/torrent/*" />
   </Annotation>
   <Annotation about="thepiratebay.org/details.php?id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="thepiratebay.org/details.php?id=*" />
   </Annotation>
   <Annotation about="thepiratebay.se/details.php?id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="thepiratebay.se/details.php?id=*" />
   </Annotation>
   <Annotation about="thepiratebay.ac/details.php?id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="thepiratebay.ac/details.php?id=*" />
   </Annotation>
   <Annotation about="thepiratebay.pe/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="thepiratebay.pe/torrent/*" />
   </Annotation>
   <Annotation about="thepiratebay.ac/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="thepiratebay.ac/torrent/*" />
   </Annotation>
   <Annotation about="fileswap.com/dl/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="fileswap.com/dl/*" />
   </Annotation>
   <Annotation about="yun.baidu.com/s/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="yun.baidu.com/s/*" />
   </Annotation>
   <Annotation about="torrentus.to/*-*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrentus.to/*-*.html" />
   </Annotation>
   <Annotation about="zmusic.mobi/*/track/s/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="音乐" />
-    <AdditionalData attribute="original_url" value="zmusic.mobi/*/track/s/*" />
   </Annotation>
   <Annotation about="isohunt.to/torrent_details/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="isohunt.to/torrent_details/*" />
   </Annotation>
   <Annotation about="datafilehost.com/d/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="datafilehost.com/d/*" />
   </Annotation>
   <Annotation about="tiantianbt.net/btdl/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="tiantianbt.net/btdl/*" />
   </Annotation>
   <Annotation about="torrentlove.net/detail?*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrentlove.net/detail?*" />
   </Annotation>
   <Annotation about="yun.baidu.com/share/link?*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="yun.baidu.com/share/link?*" />
   </Annotation>
   <Annotation about="s.yunio.com/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="s.yunio.com/*" />
   </Annotation>
   <Annotation about="pan.baidu.com/share/link?*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="pan.baidu.com/share/link?*" />
   </Annotation>
   <Annotation about="sufile.com/file/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="sufile.com/file/*.html" />
   </Annotation>
   <Annotation about="bego.cc/file/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="bego.cc/file/*" />
   </Annotation>
   <Annotation about="smartorrent.com/?page=torrentinfo&amp;tid=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="smartorrent.com/?page=torrentinfo&amp;tid=*" />
   </Annotation>
   <Annotation about="pan.baidu.com/s/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="pan.baidu.com/s/*" />
   </Annotation>
   <Annotation about="xsimplecd.com/d/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="xsimplecd.com/d/*.html" />
   </Annotation>
   <Annotation about="subscene.com/subtitles/*/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="字幕" />
-    <AdditionalData attribute="original_url" value="subscene.com/subtitles/*/*" />
   </Annotation>
   <Annotation about="kickmirror.com/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="kickmirror.com/*.html" />
   </Annotation>
   <Annotation about="storetorrent.com/bt/*.htm">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="storetorrent.com/bt/*.htm" />
   </Annotation>
   <Annotation about="32666.com/file-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="32666.com/file-*.html" />
   </Annotation>
   <Annotation about="mediafire.com/watch/*.*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mediafire.com/watch/*.*" />
   </Annotation>
   <Annotation about="ryushare.com/*/*.*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ryushare.com/*/*.*" />
   </Annotation>
   <Annotation about="qiannao.com/file/*/">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="qiannao.com/file/*/" />
   </Annotation>
   <Annotation about="ompan.com/content-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ompan.com/content-*.html" />
   </Annotation>
   <Annotation about="vitorrent.org/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="vitorrent.org/torrent/*" />
   </Annotation>
   <Annotation about="vpan.cc/file-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="vpan.cc/file-*.html" />
   </Annotation>
   <Annotation about="torrentmao.com/bt-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentmao.com/bt-*.html" />
   </Annotation>
   <Annotation about="cili.so/bt_*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="cili.so/bt_*.html" />
   </Annotation>
   <Annotation about="ziyuanhai.com/seed/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ziyuanhai.com/seed/*" />
   </Annotation>
   <Annotation about="idianlv.com/*/view*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="idianlv.com/*/view*.html" />
   </Annotation>
   <Annotation about="4884.cc/e/http_handler:index?q=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="4884.cc/e/http_handler:index?q=*" />
   </Annotation>
   <Annotation about="cszebt.com/show-*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="cszebt.com/show-*.html" />
   </Annotation>
   <Annotation about="witguides.com/details.asp?id=*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="witguides.com/details.asp?id=*" />
   </Annotation>
   <Annotation about="ebooksread.com/authors-eng/*/*-*.shtml">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ebooksread.com/authors-eng/*/*-*.shtml" />
   </Annotation>
   <Annotation about="bookboon.com/*-ebooks">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bookboon.com/*-ebooks" />
   </Annotation>
   <Annotation about="bookboon.com/*-ebook">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bookboon.com/*-ebook" />
   </Annotation>
   <Annotation about="*.bookos.org/book/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.bookos.org/book/*" />
   </Annotation>
   <Annotation about="yifyproxy.net/movie/*_*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yifyproxy.net/movie/*_*" />
   </Annotation>
   <Annotation about="btspread.com/magnet/detail/hash/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btspread.com/magnet/detail/hash/*" />
   </Annotation>
   <Annotation about="ed2000.com/ShowFile.asp?FileID=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ed2000.com/ShowFile.asp?FileID=*" />
   </Annotation>
   <Annotation about="iverycd.net/details/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="iverycd.net/details/*" />
   </Annotation>
   <Annotation about="lwbt.net/show.php?hash=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="lwbt.net/show.php?hash=*" />
   </Annotation>
   <Annotation about="lesou.org/Show.php?m=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="lesou.org/Show.php?m=*" />
   </Annotation>
   <Annotation about="libgen.info/view.php?id=*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="libgen.info/view.php?id=*" />
   </Annotation>
   <Annotation about="filepuma.com/download/*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filepuma.com/download/*" />
   </Annotation>
   <Annotation about="gutenberg.org/*/search/">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gutenberg.org/*/search/" />
   </Annotation>
   <Annotation about="zsbt.net/B*/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="zsbt.net/B*/*.html" />
   </Annotation>
   <Annotation about="manytorrents.com/search.php?*&amp;t=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="manytorrents.com/search.php?*&amp;t=*" />
   </Annotation>
   <Annotation about="kickass.to/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="kickass.to/*.html" />
   </Annotation>
   <Annotation about="btscene.org/details/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btscene.org/details/*" />
   </Annotation>
   <Annotation about="tornado.li/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tornado.li/*.html" />
   </Annotation>
   <Annotation about="tiantianbt.net/resource/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tiantianbt.net/resource/*" />
   </Annotation>
   <Annotation about="2download.org/*-torrent-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="2download.org/*-torrent-*.html" />
   </Annotation>
   <Annotation about="bthunter.org/torrents/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bthunter.org/torrents/*.html" />
   </Annotation>
   <Annotation about="it-ebooks.info/book/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="it-ebooks.info/book/*" />
   </Annotation>
   <Annotation about="dybee.net/*-*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dybee.net/*-*.html" />
   </Annotation>
   <Annotation about="music.baidu.com/artist/*/similar">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="music.baidu.com/artist/*/similar" />
   </Annotation>
   <Annotation about="silvertorrent.org/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="silvertorrent.org/torrent/*" />
   </Annotation>
   <Annotation about="nyhx.com/down-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="nyhx.com/down-*.html" />
   </Annotation>
   <Annotation about="jianguoyun.com/p/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="jianguoyun.com/p/*" />
   </Annotation>
   <Annotation about="dy1010.com/resource/*/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dy1010.com/resource/*/*.html" />
   </Annotation>
   <Annotation about="zzke.com/torrent/details/infohash/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="zzke.com/torrent/details/infohash/*" />
   </Annotation>
   <Annotation about="torrentkittycn.com/show/infohash/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentkittycn.com/show/infohash/*" />
   </Annotation>
   <Annotation about="nyhx.com/file-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="nyhx.com/file-*.html" />
   </Annotation>
   <Annotation about="wandoujia.com/apps/*.*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="wandoujia.com/apps/*.*" />
   </Annotation>
   <Annotation about="pirateproxy.me/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="pirateproxy.me/torrent/*" />
   </Annotation>
   <Annotation about="piratereverse.info/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="piratereverse.info/torrent/*" />
   </Annotation>
   <Annotation about="katproxy.com/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="katproxy.com/*.html" />
   </Annotation>
   <Annotation about="fenopyreverse.info/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="fenopyreverse.info/torrent/*" />
   </Annotation>
   <Annotation about="kickassunblock.info/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="kickassunblock.info/*.html" />
   </Annotation>
   <Annotation about="deadfrog.us/entry.html?id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="deadfrog.us/entry.html?id=*" />
   </Annotation>
   <Annotation about="tokyotosho.se/details.php?id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="tokyotosho.se/details.php?id=*" />
   </Annotation>
   <Annotation about="bt.sc-ol.com/show-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="bt.sc-ol.com/show-*.html" />
   </Annotation>
   <Annotation about="36dm.com/show-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="36dm.com/show-*.html" />
   </Annotation>
   <Annotation about="dl.portablesoft.org/down/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dl.portablesoft.org/down/*.html" />
   </Annotation>
   <Annotation about="uploaded.net/f/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="uploaded.net/f/*" />
   </Annotation>
   <Annotation about="uploaded.net/file/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="uploaded.net/file/*" />
   </Annotation>
   <Annotation about="xdowns.com/soft/*/*/20*oft_*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="xdowns.com/soft/*/*/20*oft_*.html" />
   </Annotation>
   <Annotation about="bt.shousibaocai.com/hash/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bt.shousibaocai.com/hash/*" />
   </Annotation>
   <Annotation about="btmeiju.com/ustv/news/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btmeiju.com/ustv/news/*" />
   </Annotation>
   <Annotation about="btmeiju.com/movie/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btmeiju.com/movie/*.html" />
   </Annotation>
   <Annotation about="btmeiju.com/ustv/*/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btmeiju.com/ustv/*/*.html" />
   </Annotation>
   <Annotation about="thepiratebay.ee/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="thepiratebay.ee/torrent/*" />
   </Annotation>
   <Annotation about="*.nyaa.eu/?page=torrentinfo&amp;tid=*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="*.nyaa.eu/?page=torrentinfo&amp;tid=*" />
   </Annotation>
   <Annotation about="*.nyaa.eu/?page=view&amp;tid=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="*.nyaa.eu/?page=view&amp;tid=*" />
   </Annotation>
   <Annotation about="bittrend.com/*-torrent.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bittrend.com/*-torrent.html" />
   </Annotation>
   <Annotation about="fenopy.se/torrent/*/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="fenopy.se/torrent/*/*" />
   </Annotation>
   <Annotation about="1i3.com/detail/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="1i3.com/detail/*" />
   </Annotation>
   <Annotation about="shooter.cn/xml/sub/*.xml" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="字幕" />
-    <AdditionalData attribute="original_url" value="shooter.cn/xml/sub/*.xml" />
   </Annotation>
   <Annotation about="thepiratebay.sx/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="thepiratebay.sx/torrent/*" />
   </Annotation>
   <Annotation about="yyets.com/*resource/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yyets.com/*resource/*" />
   </Annotation>
   <Annotation about="yyets.com/*subtitle/*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yyets.com/*subtitle/*" />
   </Annotation>
   <Annotation about="subtitlesbank.com/*subtitles/movieid-*/">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="subtitlesbank.com/*subtitles/movieid-*/" />
   </Annotation>
   <Annotation about="subtitulos.es/*/*x">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="字幕" />
-    <AdditionalData attribute="original_url" value="subtitulos.es/*/*x" />
   </Annotation>
   <Annotation about="xlpu.cc/html/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xlpu.cc/html/*.html" />
   </Annotation>
   <Annotation about="banyungong.net/magnet/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="banyungong.net/magnet/*.html" />
   </Annotation>
   <Annotation about="ja16.com/detail/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ja16.com/detail/*.html" />
   </Annotation>
   <Annotation about="an80.cc/*-*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="an80.cc/*-*.html" />
   </Annotation>
   <Annotation about="thepiratebay.is/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="thepiratebay.is/torrent/*" />
   </Annotation>
   <Annotation about="dlkoo.com/down/*/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dlkoo.com/down/*/*.html" />
   </Annotation>
   <Annotation about="66ys.net/*-*/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="66ys.net/*-*/*.html" />
   </Annotation>
   <Annotation about="66e.cc/*/20*/*.htm">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="66e.cc/*/20*/*.htm" />
   </Annotation>
   <Annotation about="public3d.se/torrent?id=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="public3d.se/torrent?id=*" />
   </Annotation>
   <Annotation about="tvsubs.net/subtitle-*.html">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tvsubs.net/subtitle-*.html" />
   </Annotation>
   <Annotation about="tvsubtitles.net/subtitle-*.html">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tvsubtitles.net/subtitle-*.html" />
   </Annotation>
   <Annotation about="seriessub.com/sous-titres/*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="seriessub.com/sous-titres/*" />
   </Annotation>
   <Annotation about="etdown.net/k-*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="etdown.net/k-*" />
   </Annotation>
   <Annotation about="etdown.net/k-*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="etdown.net/k-*" />
   </Annotation>
   <Annotation about="yzys.tv/subtitles/*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yzys.tv/subtitles/*" />
   </Annotation>
   <Annotation about="yzys.tv/resource/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yzys.tv/resource/*" />
   </Annotation>
   <Annotation about="rarbg.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="rarbg.com/torrent/*" />
   </Annotation>
   <Annotation about="hdmeiju.com/*all">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="hdmeiju.com/*all" />
   </Annotation>
   <Annotation about="hdmeiju.com/view*-*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="hdmeiju.com/view*-*.html" />
   </Annotation>
   <Annotation about="yayaxz.com/resource/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yayaxz.com/resource/*" />
   </Annotation>
   <Annotation about="yayaxz.com/subtitles/*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yayaxz.com/subtitles/*" />
   </Annotation>
   <Annotation about="mp4mkv.org/show.php?hash=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mp4mkv.org/show.php?hash=*" />
   </Annotation>
   <Annotation about="zhuixinfan.com/*all">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="zhuixinfan.com/*all" />
   </Annotation>
   <Annotation about="zhuixinfan.com/view*-*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="zhuixinfan.com/view*-*.html" />
   </Annotation>
   <Annotation about="keygen.la/*list">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="keygen.la/*list" />
   </Annotation>
   <Annotation about="keygen.la/*/*-*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="keygen.la/*/*-*.html" />
   </Annotation>
   <Annotation about="yingyong.so/app/*.htm">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yingyong.so/app/*.htm" />
   </Annotation>
   <Annotation about="yunpan.cn/Q*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yunpan.cn/Q*" />
   </Annotation>
   <Annotation about="*.yunpan.cn/lk/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.yunpan.cn/lk/*" />
   </Annotation>
   <Annotation about="xiaohx.com/*i">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaohx.com/*i" />
   </Annotation>
   <Annotation about="xiaohx.com/*a">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaohx.com/*a" />
   </Annotation>
   <Annotation about="xiaohx.com/*/">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaohx.com/*/" />
   </Annotation>
   <Annotation about="xiaohx.com/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaohx.com/*-" />
   </Annotation>
   <Annotation about="xiaohx.com/*e">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaohx.com/*e" />
   </Annotation>
   <Annotation about="xiaohx.com/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaohx.com/*" />
   </Annotation>
   <Annotation about="turbobit.net/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="turbobit.net/*.html" />
   </Annotation>
   <Annotation about="xverycd.com/s/*/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xverycd.com/s/*/*.html" />
   </Annotation>
   <Annotation about="rghost.net/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="rghost.net/*" />
   </Annotation>
   <Annotation about="crazy-torrent.com/web/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="crazy-torrent.com/web/*.html" />
   </Annotation>
   <Annotation about="torrentz.li/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.li/*-" />
   </Annotation>
   <Annotation about="torrentz.li/*=">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.li/*=" />
   </Annotation>
   <Annotation about="torrentz.li/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.li/*" />
   </Annotation>
   <Annotation about="dianying.fm/=*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dianying.fm/=*" />
   </Annotation>
   <Annotation about="dianying.fm/movie/*/">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dianying.fm/movie/*/" />
   </Annotation>
   <Annotation about="zy.51gugu.com/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="zy.51gugu.com/*.html" />
   </Annotation>
   <Annotation about="bego.cc/file/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bego.cc/file/*" />
   </Annotation>
   <Annotation about="400gb.com/file/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="400gb.com/file/*" />
   </Annotation>
   <Annotation about="supan.la/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="supan.la/*.html" />
   </Annotation>
   <Annotation about="79pan.com/file-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="79pan.com/file-*.html" />
   </Annotation>
   <Annotation about="fileim.com/file/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="fileim.com/file/*.html" />
   </Annotation>
   <Annotation about="yimuhe.com/file-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yimuhe.com/file-*.html" />
   </Annotation>
   <Annotation about="torrentbutler.eu/*-*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentbutler.eu/*-*" />
   </Annotation>
   <Annotation about="knitfile.com/file/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="knitfile.com/file/*.html" />
   </Annotation>
   <Annotation about="*.bookfi.org/book/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.bookfi.org/book/*" />
   </Annotation>
   <Annotation about="publichd.se/index.php?page=torrent-details&amp;id=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="publichd.se/index.php?page=torrent-details&amp;id=*" />
   </Annotation>
   <Annotation about="tpb.piraten.lu/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tpb.piraten.lu/torrent/*" />
   </Annotation>
   <Annotation about="yify-torrents.com/movie/*_*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yify-torrents.com/movie/*_*" />
   </Annotation>
   <Annotation about="warez.ag/download/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="warez.ag/download/*" />
   </Annotation>
   <Annotation about="tormovies.org/movie/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tormovies.org/movie/*.html" />
   </Annotation>
   <Annotation about="tormovies.org/torrent/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tormovies.org/torrent/*.html" />
   </Annotation>
   <Annotation about="*.bitreactor.to/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.bitreactor.to/torrent/*" />
   </Annotation>
   <Annotation about="directlinksearch.com/link/*/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="directlinksearch.com/link/*/*.html" />
   </Annotation>
   <Annotation about="mtmju.com/show.php?tid=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mtmju.com/show.php?tid=*" />
   </Annotation>
   <Annotation about="filehippo.com/download_*/*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filehippo.com/download_*/*" />
   </Annotation>
   <Annotation about="verycd.gdajie.com/topics/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="verycd.gdajie.com/topics/*" />
   </Annotation>
   <Annotation about="pc6.com/softview/SoftView_*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="pc6.com/softview/SoftView_*.html" />
   </Annotation>
   <Annotation about="*.verycd.com/topics/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.verycd.com/topics/*" />
   </Annotation>
   <Annotation about="*.verycd.com/files/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.verycd.com/files/*" />
   </Annotation>
   <Annotation about="tuku.cc/comic/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tuku.cc/comic/*" />
   </Annotation>
   <Annotation about="acmoe.com/comic/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="acmoe.com/comic/*" />
   </Annotation>
   <Annotation about="hostex.org/dl/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="hostex.org/dl/*" />
   </Annotation>
   <Annotation about="dayula.net/*/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dayula.net/*/*.html" />
   </Annotation>
   <Annotation about="bilege.com/bk/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bilege.com/bk/*.html" />
   </Annotation>
   <Annotation about="txdzs.com/download/*/index.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="txdzs.com/download/*/index.html" />
   </Annotation>
   <Annotation about="lvsetxt.com/ebook/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="lvsetxt.com/ebook/*.html" />
   </Annotation>
   <Annotation about="52eshu.com/xiaoshuo/html/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="52eshu.com/xiaoshuo/html/*.html" />
   </Annotation>
   <Annotation about="qisuu.com/Shtml*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="qisuu.com/Shtml*.html" />
   </Annotation>
   <Annotation about="ebuk.cn/book/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ebuk.cn/book/*.html" />
   </Annotation>
   <Annotation about="ebuk.cn/pdf/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ebuk.cn/pdf/*.html" />
   </Annotation>
   <Annotation about="tpb.par-anoia.net/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tpb.par-anoia.net/torrent/*" />
   </Annotation>
   <Annotation about="qvocd.org/emule.php?vid-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="qvocd.org/emule.php?vid-*.html" />
   </Annotation>
   <Annotation about="fenxiang.qq.com/x/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="fenxiang.qq.com/x/*" />
   </Annotation>
   <Annotation about="fenxiang.qq.com/filedownload.php?*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="fenxiang.qq.com/filedownload.php?*" />
   </Annotation>
   <Annotation about="gaaks.com/*/site-news/">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gaaks.com/*/site-news/" />
   </Annotation>
   <Annotation about="gaaks.com/20*/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gaaks.com/20*/*.html" />
   </Annotation>
   <Annotation about="grbt.asia/show.php?tid=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="grbt.asia/show.php?tid=*" />
   </Annotation>
   <Annotation about="omgtorrent.com/*/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="omgtorrent.com/*/*.html" />
   </Annotation>
   <Annotation about="onebigtorrent.org/torrents/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="onebigtorrent.org/torrents/*" />
   </Annotation>
   <Annotation about="file.sh/download/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="file.sh/download/*.html" />
   </Annotation>
   <Annotation about="overget.org/tor/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="overget.org/tor/*" />
   </Annotation>
   <Annotation about="torrentmonkeys.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentmonkeys.com/torrent/*" />
   </Annotation>
   <Annotation about="mistertorrent.me/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mistertorrent.me/torrent/*" />
   </Annotation>
   <Annotation about="orsoon.com/Soft/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="orsoon.com/Soft/*.html" />
   </Annotation>
   <Annotation about="torrentdownloads.me/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentdownloads.me/torrent/*" />
   </Annotation>
   <Annotation about="beemp3.com/download.php?file=*">
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="beemp3.com/download.php?file=*" />
   </Annotation>
   <Annotation about="gameupdates.org/details.php?id=*">
     <Label name="p2p" />
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gameupdates.org/details.php?id=*" />
   </Annotation>
   <Annotation about="jamendo.com/*/artist/*">
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="jamendo.com/*/artist/*" />
   </Annotation>
   <Annotation about="jamendo.com/*/track/*">
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="jamendo.com/*/track/*" />
   </Annotation>
   <Annotation about="clearbits.net/torrents/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="clearbits.net/torrents/*" />
   </Annotation>
   <Annotation about="publicdomaintorrents.info/nshowmovie.html?movieid=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="publicdomaintorrents.info/nshowmovie.html?movieid=*" />
   </Annotation>
   <Annotation about="torrentz.me/*=">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.me/*=" />
   </Annotation>
   <Annotation about="torrentz.me/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.me/*-" />
   </Annotation>
   <Annotation about="torrentz.me/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.me/*" />
   </Annotation>
   <Annotation about="torrentz.in/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.in/*-" />
   </Annotation>
   <Annotation about="torrentz.in/*=">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.in/*=" />
   </Annotation>
   <Annotation about="torrentz.in/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.in/*" />
   </Annotation>
   <Annotation about="torrentz.hk/*=">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.hk/*=" />
   </Annotation>
   <Annotation about="torrentz.hk/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.hk/*-" />
   </Annotation>
   <Annotation about="torrentz.hk/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.hk/*" />
   </Annotation>
   <Annotation about="torrentz.ph/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.ph/*-" />
   </Annotation>
   <Annotation about="torrentz.eu/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.eu/*-" />
   </Annotation>
   <Annotation about="torrentz.com/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.com/*-" />
   </Annotation>
   <Annotation about="torrents.de/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrents.de/*-" />
   </Annotation>
   <Annotation about="torrents.de/*=">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrents.de/*=" />
   </Annotation>
   <Annotation about="torrents.de/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrents.de/*" />
   </Annotation>
   <Annotation about="torrentz.ph/*=">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.ph/*=" />
   </Annotation>
   <Annotation about="torrentz.ph/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.ph/*" />
   </Annotation>
   <Annotation about="burnbit.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="burnbit.com/torrent/*" />
   </Annotation>
   <Annotation about="btdigg.org/search?info_hash=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btdigg.org/search?info_hash=*" />
   </Annotation>
   <Annotation about="bt.etree.org/details.php?id=*">
     <Label name="p2p" />
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bt.etree.org/details.php?id=*" />
   </Annotation>
   <Annotation about="tophqbooks.com/books/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tophqbooks.com/books/*" />
   </Annotation>
   <Annotation about="bitfish8.com/*/*/20*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bitfish8.com/*/*/20*.html" />
   </Annotation>
   <Annotation about="henbt.com/show-*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="henbt.com/show-*.html" />
   </Annotation>
   <Annotation about="720yp.com/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="720yp.com/*.html" />
   </Annotation>
   <Annotation about="publichd.eu/index.php?page=torrent-details&amp;id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="publichd.eu/index.php?page=torrent-details&amp;id=*" />
   </Annotation>
   <Annotation about="duoduomi.com/ebook/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="duoduomi.com/ebook/*.html" />
   </Annotation>
   <Annotation about="gallery.mobile9.com/f/*/">
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gallery.mobile9.com/f/*/" />
   </Annotation>
   <Annotation about="epubbud.com/book.php?g=*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="epubbud.com/book.php?g=*" />
   </Annotation>
   <Annotation about="goootooo.com/down.php?id=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="goootooo.com/down.php?id=*" />
   </Annotation>
   <Annotation about="ihaowa.com/detail/*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ihaowa.com/detail/*" />
   </Annotation>
   <Annotation about="ihaowa.com/download/*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ihaowa.com/download/*" />
   </Annotation>
   <Annotation about="ixck.com/down/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ixck.com/down/*.html" />
   </Annotation>
   <Annotation about="coocd.com/show-*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="coocd.com/show-*.html" />
   </Annotation>
   <Annotation about="tpb.pirateparty.org.uk/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tpb.pirateparty.org.uk/torrent/*" />
   </Annotation>
   <Annotation about="portablefreeware.com/?id=*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="portablefreeware.com/?id=*" />
   </Annotation>
   <Annotation about="longbuluo.com/video/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="longbuluo.com/video/*.html" />
   </Annotation>
   <Annotation about="longbuluo.com/television/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="longbuluo.com/television/*.html" />
   </Annotation>
   <Annotation about="longbuluo.com/movie/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="longbuluo.com/movie/*.html" />
   </Annotation>
   <Annotation about="music.baidu.com/artist/*">
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="music.baidu.com/artist/*" />
   </Annotation>
   <Annotation about="music.baidu.com/album/*">
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="music.baidu.com/album/*" />
   </Annotation>
   <Annotation about="music.baidu.com/song/*">
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="music.baidu.com/song/*" />
   </Annotation>
   <Annotation about="wenkudaquan.com/doc/*/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="wenkudaquan.com/doc/*/*.html" />
   </Annotation>
   <Annotation about="freecomputerbooks.com/*-*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="freecomputerbooks.com/*-*.html" />
   </Annotation>
   <Annotation about="qcenglish.com/ebook/list_*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="qcenglish.com/ebook/list_*.html" />
   </Annotation>
   <Annotation about="qcenglish.com/ebook/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="qcenglish.com/ebook/*.html" />
   </Annotation>
   <Annotation about="xiaoshuwu.in/index.php/*/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaoshuwu.in/index.php/*/*.html" />
   </Annotation>
   <Annotation about="*.114bt.com/s*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.114bt.com/s*" />
   </Annotation>
   <Annotation about="*.114bt.com/bt%E4%B8%8B%E8%BD%BD/s*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.114bt.com/bt下载/s*" />
   </Annotation>
   <Annotation about="movie.readself.com/id/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="movie.readself.com/id/*" />
   </Annotation>
   <Annotation about="down.52pk.com/xiazai/*.shtml">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="down.52pk.com/xiazai/*.shtml" />
   </Annotation>
   <Annotation about="xiaopian.com/html/*index.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaopian.com/html/*index.html" />
   </Annotation>
   <Annotation about="xiaopian.com/html/*list*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaopian.com/html/*list*.html" />
   </Annotation>
   <Annotation about="xiaopian.com/html/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaopian.com/html/*.html" />
   </Annotation>
   <Annotation about="filesspy.com/download/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filesspy.com/download/*.html" />
   </Annotation>
   <Annotation about="d.pr/f/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="d.pr/f/*" />
   </Annotation>
   <Annotation about="appyao.com/ku/App_*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="appyao.com/ku/App_*.html" />
   </Annotation>
   <Annotation about="hotne.ws/download/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="hotne.ws/download/*" />
   </Annotation>
   <Annotation about="torfinder.net/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torfinder.net/torrent/*" />
   </Annotation>
   <Annotation about="pirateproxy.net/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="pirateproxy.net/torrent/*" />
   </Annotation>
   <Annotation about="torrent.cd/*.torrent">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrent.cd/*.torrent" />
   </Annotation>
   <Annotation about="bitwiki.org/torrents/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bitwiki.org/torrents/*" />
   </Annotation>
   <Annotation about="datafilehost.com/download-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="datafilehost.com/download-*.html" />
   </Annotation>
   <Annotation about="dl.vmall.com/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dl.vmall.com/*" />
   </Annotation>
   <Annotation about="magazinesdownload.com/post/*/*.aspx">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="magazinesdownload.com/post/*/*.aspx" />
   </Annotation>
   <Annotation about="tvu.org.ru/index.php?show=episodes&amp;sid=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tvu.org.ru/index.php?show=episodes&amp;sid=*" />
   </Annotation>
   <Annotation about="top100.cn/download/*">
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="top100.cn/download/*" />
   </Annotation>
   <Annotation about="top100.cn/song/*">
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="top100.cn/song/*" />
   </Annotation>
   <Annotation about="top100.cn/album/*.shtml">
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="top100.cn/album/*.shtml" />
   </Annotation>
   <Annotation about="linuxtracker.org/index.php?page=details&amp;id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="linuxtracker.org/index.php?page=details&amp;id=*" />
   </Annotation>
   <Annotation about="legittorrents.info/index.php?page=details&amp;id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="legittorrents.info/index.php?page=details&amp;id=*" />
   </Annotation>
   <Annotation about="legittorrents.info/index.php?page=torrent-details&amp;id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="legittorrents.info/index.php?page=torrent-details&amp;id=*" />
   </Annotation>
   <Annotation about="simplecd.me/entry/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="simplecd.me/entry/*" />
   </Annotation>
   <Annotation about="arxiv.org/pdf/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="arxiv.org/pdf/*" />
   </Annotation>
   <Annotation about="arxiv.org/abs/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="arxiv.org/abs/*" />
   </Annotation>
   <Annotation about="*.zippyshare.com/v/*/file.html">
     <Label name="网盘" />
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.zippyshare.com/v/*/file.html" />
   </Annotation>
   <Annotation about="yypan.com/views-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yypan.com/views-*.html" />
   </Annotation>
   <Annotation about="kuai.xunlei.com/s/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="kuai.xunlei.com/s/*" />
   </Annotation>
   <Annotation about="w.xzshoufa.com/down.php/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="w.xzshoufa.com/down.php/*.html" />
   </Annotation>
   <Annotation about="f1dy.com/detail-n/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="f1dy.com/detail-n/*.html" />
   </Annotation>
   <Annotation about="dy161.com/detail-n/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dy161.com/detail-n/*.html" />
   </Annotation>
   <Annotation about="coolapk.com/*/tag/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="coolapk.com/*/tag/*" />
   </Annotation>
   <Annotation about="coolapk.com/*/sns/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="coolapk.com/*/sns/*" />
   </Annotation>
   <Annotation about="coolapk.com/game/*/">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="coolapk.com/game/*/" />
   </Annotation>
   <Annotation about="coolapk.com/apk/*/">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="coolapk.com/apk/*/" />
   </Annotation>
   <Annotation about="goxiazai.cc/html/20*/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="goxiazai.cc/html/20*/*.html" />
   </Annotation>
   <Annotation about="bakabt.me/*-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bakabt.me/*-*.html" />
   </Annotation>
   <Annotation about="torrentfrancais.com/torrent/*/">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentfrancais.com/torrent/*/" />
   </Annotation>
   <Annotation about="elitefreak.net/peliculas/*/*.htm">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="elitefreak.net/peliculas/*/*.htm" />
   </Annotation>
   <Annotation about="torrentino.tv/torrents/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentino.tv/torrents/*" />
   </Annotation>
   <Annotation about="rutor.org/torrent/*/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="rutor.org/torrent/*/*" />
   </Annotation>
   <Annotation about="*.torrentrg.com/bbs/board.php?bo_table=torrent_*&amp;wr_id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.torrentrg.com/bbs/board.php?bo_table=torrent_*&amp;wr_id=*" />
   </Annotation>
   <Annotation about="torrentz.ru/download-torrent/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.ru/download-torrent/*.html" />
   </Annotation>
   <Annotation about="apktops.com/ask/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="apktops.com/ask/*" />
   </Annotation>
   <Annotation about="apktops.com/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="apktops.com/*.html" />
   </Annotation>
   <Annotation about="apknew.com/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="apknew.com/*.html" />
   </Annotation>
   <Annotation about="extabit.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="extabit.com/file/*" />
   </Annotation>
   <Annotation about="torrentdownload.ws/*-q">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentdownload.ws/*-q" />
   </Annotation>
   <Annotation about="torrentdownload.ws/*/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentdownload.ws/*/*" />
   </Annotation>
   <Annotation about="torrentz.com/*=">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.com/*=" />
   </Annotation>
   <Annotation about="torrentz.eu/*=">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.eu/*=" />
   </Annotation>
   <Annotation about="tencd.com/show-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tencd.com/show-*.html" />
   </Annotation>
   <Annotation about="edisk.eu/*download/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="edisk.eu/*download/*.html" />
   </Annotation>
   <Annotation about="torrentkitty.com/torrent/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentkitty.com/torrent/*.html" />
   </Annotation>
   <Annotation about="torrentkitty.com/information/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentkitty.com/information/*" />
   </Annotation>
   <Annotation about="bt.btvery.com/show-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bt.btvery.com/show-*.html" />
   </Annotation>
   <Annotation about="51ctzs.com/html/*/*/20*.html">
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="51ctzs.com/html/*/*/20*.html" />
   </Annotation>
   <Annotation about="2shared.com/file/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="2shared.com/file/*.html" />
   </Annotation>
   <Annotation about="2shared.com/video/*.html">
     <Label name="网盘" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="2shared.com/video/*.html" />
   </Annotation>
   <Annotation about="2shared.com/audio/*.html">
     <Label name="网盘" />
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="2shared.com/audio/*.html" />
   </Annotation>
   <Annotation about="leechers.info/*-*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="leechers.info/*-*" />
   </Annotation>
   <Annotation about="picofiles.com/*/*-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="picofiles.com/*/*-*.html" />
   </Annotation>
   <Annotation about="thepiratebay.se/tv/*/S*/">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="thepiratebay.se/tv/*/S*/" />
   </Annotation>
   <Annotation about="piratebay.org/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="piratebay.org/torrent/*" />
   </Annotation>
   <Annotation about="ufile.eu/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ufile.eu/*" />
   </Annotation>
   <Annotation about="filesin.com/*/download.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filesin.com/*/download.html" />
   </Annotation>
   <Annotation about="downarchive.com/dl/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="downarchive.com/dl/*" />
   </Annotation>
   <Annotation about="downarchive.com/games/*/*-*.html">
     <Label name="网盘" />
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="downarchive.com/games/*/*-*.html" />
   </Annotation>
   <Annotation about="downarchive.com/ebooks/*/*-*.html">
     <Label name="网盘" />
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="downarchive.com/ebooks/*/*-*.html" />
   </Annotation>
   <Annotation about="downarchive.com/music/*/*-*.html">
     <Label name="网盘" />
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="downarchive.com/music/*/*-*.html" />
   </Annotation>
   <Annotation about="downarchive.com/software/*/*-*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="downarchive.com/software/*/*-*.html" />
   </Annotation>
   <Annotation about="downarchive.com/movies/*/*-*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="downarchive.com/movies/*/*-*.html" />
   </Annotation>
   <Annotation about="downarchive.com/*/*-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="downarchive.com/*/*-*.html" />
   </Annotation>
   <Annotation about="coda.fm/albums/*">
     <Label name="p2p" />
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="coda.fm/albums/*" />
   </Annotation>
   <Annotation about="moviesubtitles.net/subtitles-details/*/*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="moviesubtitles.net/subtitles-details/*/*" />
   </Annotation>
   <Annotation about="rarbg.com/torrents/filmi/download/*/torrent.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="rarbg.com/torrents/filmi/download/*/torrent.html" />
   </Annotation>
   <Annotation about="subscene.com/*/*/subtitle-*.aspx">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="subscene.com/*/*/subtitle-*.aspx" />
   </Annotation>
   <Annotation about="movies.io/m/search?q=*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="movies.io/m/search?q=*" />
   </Annotation>
   <Annotation about="movies.io/m/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="movies.io/m/*" />
   </Annotation>
   <Annotation about="wtorrent.org/torrents/*/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="wtorrent.org/torrents/*/*.html" />
   </Annotation>
   <Annotation about="wtorrent.org/subtitles/*/*.html">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="wtorrent.org/subtitles/*/*.html" />
   </Annotation>
   <Annotation about="54new.com/seed-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="54new.com/seed-*.html" />
   </Annotation>
   <Annotation about="torrent.to/torrent.php?Mod=Details&amp;ID=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrent.to/torrent.php?Mod=Details&amp;ID=*" />
   </Annotation>
   <Annotation about="torrentdb.in/*/*.torrent">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentdb.in/*/*.torrent" />
   </Annotation>
   <Annotation about="torrentz.cd/*/*.torrent">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.cd/*/*.torrent" />
   </Annotation>
   <Annotation about="lihuaxiang.com/*/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="lihuaxiang.com/*/*.html" />
   </Annotation>
   <Annotation about="hulkshare.com/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="音乐" />
-    <AdditionalData attribute="original_url" value="hulkshare.com/*" />
   </Annotation>
   <Annotation about="avaxhome.ws/music/*/*.html">
     <Label name="音乐" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="avaxhome.ws/music/*/*.html" />
   </Annotation>
   <Annotation about="uploading.com/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="uploading.com/files/*" />
   </Annotation>
   <Annotation about="uploaded.to/folder/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="uploaded.to/folder/*" />
   </Annotation>
   <Annotation about="uploaded.to/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="uploaded.to/file/*" />
   </Annotation>
   <Annotation about="2shared.com/document/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="2shared.com/document/*.html" />
   </Annotation>
   <Annotation about="*.simplecd.org/entry/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.simplecd.org/entry/*" />
   </Annotation>
   <Annotation about="emuleday.com/download/*-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="emuleday.com/download/*-*.html" />
   </Annotation>
   <Annotation about="beroko.com/base/20*/*_*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="beroko.com/base/20*/*_*.html" />
   </Annotation>
   <Annotation about="4shared.com/*/*.htm">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="4shared.com/*/*.htm" />
   </Annotation>
   <Annotation about="xunleikuaichuan.com/ziyuan-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xunleikuaichuan.com/ziyuan-*.html" />
   </Annotation>
   <Annotation about="download.26g.com/down/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="download.26g.com/down/*.html" />
   </Annotation>
   <Annotation about="*.gokuai.com/f/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="*.gokuai.com/f/*" />
   </Annotation>
   <Annotation about="*.gokuai.com/a/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.gokuai.com/a/*" />
   </Annotation>
   <Annotation about="ziddu.com/download/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="ziddu.com/download/*" />
   </Annotation>
   <Annotation about="static.apk.hiapk.com/html/*/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="static.apk.hiapk.com/html/*/*.html" />
   </Annotation>
   <Annotation about="anzhi.com/soft_*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="anzhi.com/soft_*.html" />
   </Annotation>
   <Annotation about="kuaipan.cn/file/id_*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="kuaipan.cn/file/id_*.html" />
   </Annotation>
   <Annotation about="u.ko321.com/html_1/*/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="u.ko321.com/html_1/*/*.html" />
   </Annotation>
   <Annotation about="newalbumreleases.net/*/*-20*/">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="newalbumreleases.net/*/*-20*/" />
   </Annotation>
   <Annotation about="dmxz.zerodm.cn/xiazai/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dmxz.zerodm.cn/xiazai/*.html" />
   </Annotation>
   <Annotation about="crocko.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="crocko.com/*" />
   </Annotation>
   <Annotation about="ahashare.com/torrents-details.php?id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ahashare.com/torrents-details.php?id=*" />
   </Annotation>
   <Annotation about="hotfilerock.com/*-download-pid*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="hotfilerock.com/*-download-pid*" />
   </Annotation>
   <Annotation about="android.myapp.com/android/appdetail.jsp?appid=*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="android.myapp.com/android/appdetail.jsp?appid=*" />
   </Annotation>
   <Annotation about="openclasses.info/archives/*/">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="openclasses.info/archives/*/" />
   </Annotation>
   <Annotation about="openclasses.info/archives/*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="openclasses.info/archives/*" />
   </Annotation>
   <Annotation about="down20.com/file/*/">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="down20.com/file/*/" />
   </Annotation>
   <Annotation about="55bt.eu/*,*/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="55bt.eu/*,*/*.html" />
   </Annotation>
   <Annotation about="yanzibt.com/bt/*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="yanzibt.com/bt/*" />
   </Annotation>
   <Annotation about="cracknet.net/data/*_*-bee*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="cracknet.net/data/*_*-bee*.html" />
   </Annotation>
   <Annotation about="bt.3dmgame.com/show.php?hash=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="bt.3dmgame.com/show.php?hash=*" />
   </Annotation>
   <Annotation about="bt.ali213.net/show.php?hash=*">
     <Label name="p2p" />
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bt.ali213.net/show.php?hash=*" />
   </Annotation>
   <Annotation about="bt.ali213.net/show-*.html">
     <Label name="p2p" />
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bt.ali213.net/show-*.html" />
   </Annotation>
   <Annotation about="hltm.cc/view/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="hltm.cc/view/*.html" />
   </Annotation>
   <Annotation about="pipipan.com/file/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="pipipan.com/file/*" />
   </Annotation>
   <Annotation about="usabit.com/torrent/*/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="usabit.com/torrent/*/*.html" />
   </Annotation>
   <Annotation about="filejungle.com/f/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="filejungle.com/f/*" />
   </Annotation>
   <Annotation about="depositfiles.com/*/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="depositfiles.com/*/files/*" />
   </Annotation>
   <Annotation about="*.minus.com/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="minus.com" />
   </Annotation>
   <Annotation about="*.edudisk.cn/down.aspx?down=ok&amp;filepath=*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.edudisk.cn/down.aspx?down=ok&amp;filepath=*" />
   </Annotation>
   <Annotation about="addic7ed.com/serie/*/*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="addic7ed.com/serie/*/*" />
   </Annotation>
   <Annotation about="addic7ed.com/movie/*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="addic7ed.com/movie/*" />
   </Annotation>
   <Annotation about="ttmeiju.com/meiju/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ttmeiju.com/meiju/*.html" />
   </Annotation>
   <Annotation about="ttmeiju.com/seed/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ttmeiju.com/seed/*.html" />
   </Annotation>
   <Annotation about="isohunt.com/*comments">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="isohunt.com/*comments" />
   </Annotation>
   <Annotation about="d1dianying.com/?a=download&amp;id=*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="d1dianying.com/?a=download&amp;id=*" />
   </Annotation>
   <Annotation about="download.sohu.com/down_detail/0/*_index.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="download.sohu.com/down_detail/0/*_index.html" />
   </Annotation>
   <Annotation about="ebook3000.com/*-*_*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ebook3000.com/*-*_*.html" />
   </Annotation>
   <Annotation about="prefiles.com/*/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="prefiles.com/*/*" />
   </Annotation>
   <Annotation about="wowebook.be/book/*/">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="wowebook.be/book/*/" />
   </Annotation>
   <Annotation about="avaxhome.ws/ebooks/*/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="avaxhome.ws/ebooks/*/*.html" />
   </Annotation>
   <Annotation about="filepost.com/files/*/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filepost.com/files/*/*" />
   </Annotation>
   <Annotation about="ebookshare.net/*/index.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ebookshare.net/*/index.html" />
   </Annotation>
   <Annotation about="ebookshare.net/*/*-*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ebookshare.net/*/*-*.html" />
   </Annotation>
   <Annotation about="xidong.net/File001/File_*.html">
     <Label name="p2p" />
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xidong.net/File001/File_*.html" />
   </Annotation>
   <Annotation about="shupeng.com/book/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="shupeng.com/book/*" />
   </Annotation>
   <Annotation about="qcenglish.com/ebook/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="qcenglish.com/ebook/*.html" />
   </Annotation>
   <Annotation about="inien.com/w/">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="inien.com/w/#/*.html" />
   </Annotation>
   <Annotation about="inien.com/w/data/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="inien.com/w/data/*" />
   </Annotation>
   <Annotation about="book.zi5.me/books/detail/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="book.zi5.me/books/detail/*" />
   </Annotation>
   <Annotation about="mises.org/media/*/*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mises.org/media/*/*" />
   </Annotation>
   <Annotation about="mises.org/document/*/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mises.org/document/*/*" />
   </Annotation>
   <Annotation about="torrentproject.com/*/">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentproject.com/*/" />
   </Annotation>
   <Annotation about="194.71.107.80/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="194.71.107.80/torrent/*" />
   </Annotation>
   <Annotation about="allsubs.org/*subs-download*/">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="allsubs.org/*subs-download*/" />
   </Annotation>
   <Annotation about="bt.wiiyi.com/show-*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bt.wiiyi.com/show-*.html" />
   </Annotation>
   <Annotation about="diudou.com/mp4dianying/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="diudou.com/mp4dianying/*.html" />
   </Annotation>
   <Annotation about="d.119g.com/f/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="d.119g.com/f/*.html" />
   </Annotation>
   <Annotation about="dl.playnext.cn/files/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dl.playnext.cn/files/*.html" />
   </Annotation>
   <Annotation about="dy558.com/down/20*/*/down_*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dy558.com/down/20*/*/down_*.html" />
   </Annotation>
   <Annotation about="ttbt.net/html/item/*/*.shtml">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ttbt.net/html/item/*/*.shtml" />
   </Annotation>
   <Annotation about="gaoqing.tv/lxj/lxj_*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gaoqing.tv/lxj/lxj_*.html" />
   </Annotation>
   <Annotation about="gaoqing.tv/jrp/jrp_*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gaoqing.tv/jrp/jrp_*.html" />
   </Annotation>
   <Annotation about="gaoqing.tv/m3d/m3d_*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gaoqing.tv/m3d/m3d_*.html" />
   </Annotation>
   <Annotation about="gaoqing.tv/other/other_*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gaoqing.tv/other/other_*.html" />
   </Annotation>
   <Annotation about="gaoqing.tv/movie/movie_*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gaoqing.tv/movie/movie_*.html" />
   </Annotation>
   <Annotation about="gaoqing.tv/movie720/movie720_*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gaoqing.tv/movie720/movie720_*.html" />
   </Annotation>
   <Annotation about="a720p.com/show.php?hash=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="a720p.com/show.php?hash=*" />
   </Annotation>
   <Annotation about="pdianying.com/show.php?hash=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="pdianying.com/show.php?hash=*" />
   </Annotation>
   <Annotation about="gnomefiles.org/content/show.php/*?content=*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gnomefiles.org/content/show.php/*?content=*" />
   </Annotation>
   <Annotation about="dl.dropbox.com/u/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dl.dropbox.com/u/*" />
   </Annotation>
   <Annotation about="bt.killman.net/show.php?hash=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="bt.killman.net/show.php?hash=*" />
   </Annotation>
   <Annotation about="bt.sukimad.com/show.php?hash=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bt.sukimad.com/show.php?hash=*" />
   </Annotation>
   <Annotation about="bt.hliang.com/show.php?hash=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="bt.hliang.com/show.php?hash=*" />
   </Annotation>
   <Annotation about="btscg.com/tracker-*-1-1.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btscg.com/tracker-*-1-1.html" />
   </Annotation>
   <Annotation about="skydrive.live.com/redir?resid=*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="skydrive.live.com/redir?resid=*" />
   </Annotation>
   <Annotation about="filetram.com/q/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filetram.com/q/*" />
   </Annotation>
   <Annotation about="filetram.com/1-*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filetram.com/1-*" />
   </Annotation>
   <Annotation about="filetram.com/*/1-*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filetram.com/*/1-*" />
   </Annotation>
   <Annotation about="keygenbase.com/data/*_*-bee*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="keygenbase.com/data/*_*-bee*.html" />
   </Annotation>
   <Annotation about="slideshare.net/mobile/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="slideshare.net/mobile/*" />
   </Annotation>
   <Annotation about="xunbo.cc/Html/GP*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xunbo.cc/Html/GP*.html" />
   </Annotation>
   <Annotation about="sharereactor.ru/cgi-bin/musinfo.cgi?id=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="sharereactor.ru/cgi-bin/musinfo.cgi?id=*" />
   </Annotation>
   <Annotation about="sharereactor.ru/movies/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="sharereactor.ru/movies/*" />
   </Annotation>
   <Annotation about="netload.in/*.htm" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="netload.in/*.htm" />
   </Annotation>
   <Annotation about="dl.dbank.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="dl.dbank.com/*" />
   </Annotation>
   <Annotation about="filestube.com/trends/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filestube.com/trends/*" />
   </Annotation>
   <Annotation about="filestube.com/*/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="filestube.com/*/*.html" />
   </Annotation>
   <Annotation about="torrentfunk.com/torrent/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentfunk.com/torrent/*.html" />
   </Annotation>
   <Annotation about="seedpeer.com/details/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="seedpeer.com/details/*.html" />
   </Annotation>
   <Annotation about="yourbittorrent.com/torrent/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yourbittorrent.com/torrent/*.html" />
   </Annotation>
   <Annotation about="torrenthound.com/*/report">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrenthound.com/*/report" />
   </Annotation>
   <Annotation about="torrenthound.com/*/tracker">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrenthound.com/*/tracker" />
   </Annotation>
   <Annotation about="torrenthound.com/*/comments">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrenthound.com/*/comments" />
   </Annotation>
   <Annotation about="kickasstorrents.com/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="kickasstorrents.com/*.html" />
   </Annotation>
   <Annotation about="oneddl.eu/tag/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="oneddl.eu/tag/*" />
   </Annotation>
   <Annotation about="oneddl.eu/*/*-*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="oneddl.eu/*/*-*" />
   </Annotation>
   <Annotation about="torrentino.com/torrents/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentino.com/torrents/*" />
   </Annotation>
   <Annotation about="swesub.tv/torrents-details.php?id=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="swesub.tv/torrents-details.php?id=*" />
   </Annotation>
   <Annotation about="take.fm/*/*/releases/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="take.fm/*/*/releases/*" />
   </Annotation>
   <Annotation about="torrentz.eu/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrentz.eu/*" />
   </Annotation>
   <Annotation about="torrentz.com/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentz.com/*" />
   </Annotation>
   <Annotation about="hrtsea.com/down/view/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="hrtsea.com/down/view/*.html" />
   </Annotation>
   <Annotation about="jz5u.com/Soft/*/index_*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="jz5u.com/Soft/*/index_*.html" />
   </Annotation>
   <Annotation about="jz5u.com/Soft/*/1.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="jz5u.com/Soft/*/1.html" />
   </Annotation>
   <Annotation about="jz5u.com/Soft/*/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="jz5u.com/Soft/*/*.html" />
   </Annotation>
   <Annotation about="7edown.com/soft/down/soft_*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="7edown.com/soft/down/soft_*.html" />
   </Annotation>
   <Annotation about="huacolor.com/soft/huacolor*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="huacolor.com/soft/huacolor*.html" />
   </Annotation>
   <Annotation about="huacolor.com/soft/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="huacolor.com/soft/*.html" />
   </Annotation>
   <Annotation about="codefans.net/soft/*.shtml">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="codefans.net/soft/*.shtml" />
   </Annotation>
   <Annotation about="downza.cn/soft/html/list*-*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="downza.cn/soft/html/list*-*.html" />
   </Annotation>
   <Annotation about="downza.cn/soft/html/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="downza.cn/soft/html/*.html" />
   </Annotation>
   <Annotation about="downbank.cn/s/*_*.htm">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="downbank.cn/s/*_*.htm" />
   </Annotation>
   <Annotation about="downbank.cn/s/*.htm">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="downbank.cn/s/*.htm" />
   </Annotation>
   <Annotation about="tuts4you.com/download.php?view.*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tuts4you.com/download.php?view.*" />
   </Annotation>
   <Annotation about="rapidgator.net/file/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="rapidgator.net/file/*" />
   </Annotation>
   <Annotation about="goldesel.to/download/*/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="goldesel.to/download/*/*" />
   </Annotation>
   <Annotation about="share-online.biz/dl/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="share-online.biz/dl/*" />
   </Annotation>
   <Annotation about="hd-area.org/index.php?id=*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="hd-area.org/index.php?id=*" />
   </Annotation>
   <Annotation about="uploadcity.com/?f=*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="uploadcity.com/?f=*" />
   </Annotation>
   <Annotation about="vip-file.com/download/*/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="vip-file.com/download/*/*.html" />
   </Annotation>
   <Annotation about="emule-cd.com/emule.php?vid-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="emule-cd.com/emule.php?vid-*.html" />
   </Annotation>
   <Annotation about="ed2kers.com/*/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ed2kers.com/*/*.html" />
   </Annotation>
   <Annotation about="dl.iplaysoft.com/files/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dl.iplaysoft.com/files/*.html" />
   </Annotation>
   <Annotation about="91pdf.org/20*/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="91pdf.org/20*/*.html" />
   </Annotation>
   <Annotation about="91txt.org/20*/*-*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="91txt.org/20*/*-*.html" />
   </Annotation>
   <Annotation about="91umd.com/20*-*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="91umd.com/20*-*.html" />
   </Annotation>
   <Annotation about="u.bucee.net/dl/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="u.bucee.net/dl/*" />
   </Annotation>
   <Annotation about="mologer.cn/download.asp?id=*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mologer.cn/download.asp?id=*" />
   </Annotation>
   <Annotation about="mologer.cn/post/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mologer.cn/post/*.html" />
   </Annotation>
   <Annotation about="yxbao.com/game/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yxbao.com/game/*.html" />
   </Annotation>
   <Annotation about="yxbao.com/bd/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yxbao.com/bd/*.html" />
   </Annotation>
   <Annotation about="78v.com/sp/download/sp_*.shtml">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="78v.com/sp/download/sp_*.shtml" />
   </Annotation>
   <Annotation about="78v.com/PC/Download/down_*.shtml">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="78v.com/PC/Download/down_*.shtml" />
   </Annotation>
   <Annotation about="yxdown.com/SoftView/SoftView_*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yxdown.com/SoftView/SoftView_*.html" />
   </Annotation>
   <Annotation about="962.net/youxi/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="962.net/youxi/*.html" />
   </Annotation>
   <Annotation about="muzhiwan.com/game-i-*-*.*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="muzhiwan.com/game-i-*-*.*.html" />
   </Annotation>
   <Annotation about="369ys.com/*/20*-*/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="369ys.com/*/20*-*/*.html" />
   </Annotation>
   <Annotation about="66ys.cc/*/20*/*.htm">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="66ys.cc/*/20*/*.htm" />
   </Annotation>
   <Annotation about="filetram.com/*/*-*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filetram.com/*/*-*" />
   </Annotation>
   <Annotation about="321.la/f_*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="321.la/f_*.html" />
   </Annotation>
   <Annotation about="6disk.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="6disk.com/file/*" />
   </Annotation>
   <Annotation about="token.lenovodata.com/checkAccessCode.php?code=*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="token.lenovodata.com/checkAccessCode.php?code=*" />
   </Annotation>
   <Annotation about="*.ys168.com/" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="*.ys168.com" />
   </Annotation>
   <Annotation about="mediafire.com/?*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="mediafire.com/?*" />
   </Annotation>
   <Annotation about="8698kk.com/doc-*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="8698kk.com/doc-*.html" />
   </Annotation>
   <Annotation about="yfdisk.com/file/*/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yfdisk.com/file/*/*" />
   </Annotation>
   <Annotation about="www.unibytes.com/*B">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="www.unibytes.com/*B" />
   </Annotation>
   <Annotation about="h33t.com/tor/*/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="h33t.com/tor/*/*" />
   </Annotation>
   <Annotation about="vip-file.com/downloadlib/*/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="vip-file.com/downloadlib/*/*.html" />
   </Annotation>
   <Annotation about="www.filehost.ws/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="www.filehost.ws/*" />
   </Annotation>
   <Annotation about="appifan.com/app-*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="appifan.com/app-*.html" />
   </Annotation>
   <Annotation about="*.wlyp.cn/down_*.shtml">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.wlyp.cn/down_*.shtml" />
   </Annotation>
   <Annotation about="skydrive.live.com/?cid=*id=*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="skydrive.live.com/?cid=*id=*" />
   </Annotation>
   <Annotation about="*.office.live.com/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.office.live.com/*" />
   </Annotation>
   <Annotation about="ineedfile2.com/download/*-*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ineedfile2.com/download/*-*" />
   </Annotation>
   <Annotation about="slideshare.net/*/*-*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="slideshare.net/*/*-*" />
   </Annotation>
   <Annotation about="docs.google.com/present/view?id=*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="docs.google.com/present/view?id=*" />
   </Annotation>
   <Annotation about="docs.google.com/document/d/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="docs.google.com/document/d/*" />
   </Annotation>
   <Annotation about="docs.google.com/open?id=*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="docs.google.com/open?id=*" />
   </Annotation>
   <Annotation about="docs.google.com/leaf?id=*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="docs.google.com/leaf?id=*" />
   </Annotation>
   <Annotation about="docs.google.com/Doc?docid=*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="docs.google.com/Doc?docid=*" />
   </Annotation>
   <Annotation about="docs.google.com/folder/d/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="docs.google.com/folder/d/*" />
   </Annotation>
   <Annotation about="docs.google.com/file/d/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="docs.google.com/file/d/*" />
   </Annotation>
   <Annotation about="furk.net/df/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="furk.net/df/*" />
   </Annotation>
   <Annotation about="torrentalot.com/p2p/*/*.torrent">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentalot.com/p2p/*/*.torrent" />
   </Annotation>
   <Annotation about="vtors.com/*.torrent">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="vtors.com/*.torrent" />
   </Annotation>
   <Annotation about="fileforum.betanews.com/detail/*/*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="fileforum.betanews.com/detail/*/*" />
   </Annotation>
   <Annotation about="my.cloudme.com/*.*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="my.cloudme.com/*.*" />
   </Annotation>
   <Annotation about="my.icloud.com/*.*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="my.icloud.com/*.*" />
   </Annotation>
   <Annotation about="kukai.cc/fileview_*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="kukai.cc/fileview_*.html" />
   </Annotation>
   <Annotation about="download.csdn.net/detail/*/*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="download.csdn.net/detail/*/*" />
   </Annotation>
   <Annotation about="sharej.com/topic/*/">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="sharej.com/topic/*/" />
   </Annotation>
   <Annotation about="d.52rwdm.com/view/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="d.52rwdm.com/view/*.html" />
   </Annotation>
   <Annotation about="fiberupload.com/*/*.*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="fiberupload.com/*/*.*" />
   </Annotation>
   <Annotation about="cnshare.org/index.php/20*/*-*/">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="cnshare.org/index.php/20*/*-*/" />
   </Annotation>
   <Annotation about="*.feedbooks.com/book/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.feedbooks.com/book/*" />
   </Annotation>
   <Annotation about="*.feedbooks.com/userbook/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.feedbooks.com/userbook/*" />
   </Annotation>
   <Annotation about="zimuw.com/sub/*/">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="zimuw.com/sub/*/" />
   </Annotation>
   <Annotation about="data.99pan.com/download/*_*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="data.99pan.com/download/*_*.html" />
   </Annotation>
   <Annotation about="rayfile.org/show.php?tid=*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="rayfile.org/show.php?tid=*" />
   </Annotation>
   <Annotation about="*.qupan.cc/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.qupan.cc/*.html" />
   </Annotation>
   <Annotation about="yimuhe.com/fileview.php?id=*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yimuhe.com/fileview.php?id=*" />
   </Annotation>
   <Annotation about="4shared.com/*/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="4shared.com/*/*.html" />
   </Annotation>
   <Annotation about="www.ohchr.org/Documents/Publications/*.pdf">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="www.ohchr.org/Documents/Publications/*.pdf" />
   </Annotation>
   <Annotation about="www2.hn.psu.edu/faculty/jmanis/*.htm">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="www2.hn.psu.edu/faculty/jmanis/*.htm" />
   </Annotation>
   <Annotation about="gutenberg.org/ebooks/">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gutenberg.org/ebooks/" />
   </Annotation>
   <Annotation about="gutenberg.org/ebooks/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gutenberg.org/ebooks/*" />
   </Annotation>
   <Annotation about="onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=*" />
   </Annotation>
   <Annotation about="nirc.nanzan-u.ac.jp/publications/*/*.htm">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="nirc.nanzan-u.ac.jp/publications/*/*.htm" />
   </Annotation>
   <Annotation about="plough.com/ebooks/*index.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="plough.com/ebooks/*index.html" />
   </Annotation>
   <Annotation about="plough.com/ebooks/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="plough.com/ebooks/*.html" />
   </Annotation>
   <Annotation about="catalog.hathitrust.org/Record/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="catalog.hathitrust.org/Record/*" />
   </Annotation>
   <Annotation about="u.xunzai.com/fileview_*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="u.xunzai.com/fileview_*.html" />
   </Annotation>
   <Annotation about="dynamic.xlpan.com/file/*/*-*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dynamic.xlpan.com/file/*/*-*" />
   </Annotation>
   <Annotation about="manybooks.net/titles/*.html">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="manybooks.net/titles/*.html" />
   </Annotation>
   <Annotation about="*.us.archive.org/*/items/*">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.us.archive.org/*/items/*" />
   </Annotation>
   <Annotation about="*.edu.cn/*.xlsx">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.edu.cn/*.xlsx" />
   </Annotation>
   <Annotation about="*.edu.cn/*.xls">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.edu.cn/*.xls" />
   </Annotation>
   <Annotation about="*.edu.cn/*.pdf">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.edu.cn/*.pdf" />
   </Annotation>
   <Annotation about="*.edu.cn/*.pptx">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.edu.cn/*.pptx" />
   </Annotation>
   <Annotation about="*.edu.cn/*.ppt">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.edu.cn/*.ppt" />
   </Annotation>
   <Annotation about="*.edu.cn/*.docx">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.edu.cn/*.docx" />
   </Annotation>
   <Annotation about="*.edu.cn/*.doc">
     <Label name="文档" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.edu.cn/*.doc" />
   </Annotation>
   <Annotation about="9sub.com/sub/*/*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="9sub.com/sub/*/*" />
   </Annotation>
   <Annotation about="ytet.org/20*/*-*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ytet.org/20*/*-*" />
   </Annotation>
   <Annotation about="opensubtitles.org/*subtitles/*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="opensubtitles.org/*subtitles/*" />
   </Annotation>
   <Annotation about="torrentr.eu/torrents/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentr.eu/torrents/*.html" />
   </Annotation>
   <Annotation about="d.1tpan.com/tp*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="d.1tpan.com/tp*" />
   </Annotation>
   <Annotation about="gxp.cc/file-*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gxp.cc/file-*.html" />
   </Annotation>
   <Annotation about="bttiantang.com/subject/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bttiantang.com/subject/*.html" />
   </Annotation>
   <Annotation about="animesuki.com/series.php/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="animesuki.com/series.php/*.html" />
   </Annotation>
   <Annotation about="animesuki.com/details.php/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="animesuki.com/details.php/*.html" />
   </Annotation>
   <Annotation about="bt.orzx.co/display.php?id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bt.orzx.co/display.php?id=*" />
   </Annotation>
   <Annotation about="newtorrents.info/torrent/*/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="newtorrents.info/torrent/*/*.html" />
   </Annotation>
   <Annotation about="tracker.uguu-subs.org/torrent/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tracker.uguu-subs.org/torrent/*" />
   </Annotation>
   <Annotation about="anisource.net/showprofile/*/">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="anisource.net/showprofile/*/" />
   </Annotation>
   <Annotation about="tokyotosho.info/details.php?id=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="tokyotosho.info/details.php?id=*" />
   </Annotation>
   <Annotation about="yousei-raws.org/releases/*-*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yousei-raws.org/releases/*-*" />
   </Annotation>
   <Annotation about="51ipa.com/*/*-iP*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="51ipa.com/*/*-iP*.html" />
   </Annotation>
   <Annotation about="233d.com/3Dyingshixiazai/20*/*.shtml">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="233d.com/3Dyingshixiazai/20*/*.shtml" />
   </Annotation>
   <Annotation about="down.ali213.net/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="down.ali213.net/*.html" />
   </Annotation>
   <Annotation about="piaohua.com/html/*index.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="piaohua.com/html/*index.html" />
   </Annotation>
   <Annotation about="piaohua.com/html/*list_*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="piaohua.com/html/*list_*.html" />
   </Annotation>
   <Annotation about="piaohua.com/html/*/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="piaohua.com/html/*/*.html" />
   </Annotation>
   <Annotation about="gamersky.com/Soft/*/*.shtml">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="gamersky.com/Soft/*/*.shtml" />
   </Annotation>
   <Annotation about="onlinedown.net/soft/*.htm" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="onlinedown.net/soft/*.htm" />
   </Annotation>
   <Annotation about="just-download.com/*/*-*.*/download/*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="just-download.com/*/*-*.*/download/*" />
   </Annotation>
   <Annotation about="windows.podnova.com/software/*.htm">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="windows.podnova.com/software/*.htm" />
   </Annotation>
   <Annotation about="www.newhua.com.cn/soft/*.htm">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="www.newhua.com.cn/soft/*.htm" />
   </Annotation>
   <Annotation about="box.com/s/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="box.com/s/*" />
   </Annotation>
   <Annotation about="laidown.com/k-*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="laidown.com/k-*" />
   </Annotation>
   <Annotation about="6vdy.com/*-*/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="6vdy.com/*-*/*.html" />
   </Annotation>
   <Annotation about="ggtime.com/*/20*_*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ggtime.com/*/20*_*.html" />
   </Annotation>
   <Annotation about="1000eb.com/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="1000eb.com/*" />
   </Annotation>
   <Annotation about="dy131.com/jddy/*-*/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dy131.com/jddy/*-*/*.html" />
   </Annotation>
   <Annotation about="sendspace.com/folder/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="sendspace.com/folder/*" />
   </Annotation>
   <Annotation about="sendspace.com/file/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="sendspace.com/file/*" />
   </Annotation>
   <Annotation about="bestfreewaredownload.com/freeware/t-free-*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bestfreewaredownload.com/freeware/t-free-*.html" />
   </Annotation>
   <Annotation about="dytt8.com/html/game/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dytt8.com/html/game/*.html" />
   </Annotation>
   <Annotation about="dytt8.net/html/game/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dytt8.net/html/game/*.html" />
   </Annotation>
   <Annotation about="ctdisk.com/file/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ctdisk.com/file/*" />
   </Annotation>
   <Annotation about="d1dianying.com/?a=show&amp;id=*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="d1dianying.com/?a=show&amp;id=*" />
   </Annotation>
   <Annotation about="dgnn.org/archives/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dgnn.org/archives/*.html" />
   </Annotation>
   <Annotation about="2tu.cc/Html/GP*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="2tu.cc/Html/GP*.html" />
   </Annotation>
   <Annotation about="12u.cn/bbs/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="12u.cn/bbs/*" />
   </Annotation>
   <Annotation about="12u.cn/*/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="12u.cn/*/*.html" />
   </Annotation>
   <Annotation about="dyxiazai.com/*/*-*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dyxiazai.com/*/*-*.html" />
   </Annotation>
   <Annotation about="filecluster.com/*/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filecluster.com/*/*.html" />
   </Annotation>
   <Annotation about="afterdawn.com/software/*/*.cfm">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="afterdawn.com/software/*/*.cfm" />
   </Annotation>
   <Annotation about="portableapps.com/apps/*/*_portable">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="portableapps.com/apps/*/*_portable" />
   </Annotation>
   <Annotation about="majorgeeks.com/*_d*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="majorgeeks.com/*_d*.html" />
   </Annotation>
   <Annotation about="softpedia.com/progDownload/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="softpedia.com/progDownload/*.html" />
   </Annotation>
   <Annotation about="softpedia.com/get/*.shtml">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="softpedia.com/get/*.shtml" />
   </Annotation>
   <Annotation about="download.cnet.com/*/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="download.cnet.com/*/*.html" />
   </Annotation>
   <Annotation about="down.zdnet.com.cn/detail/*.shtml">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="down.zdnet.com.cn/detail/*.shtml" />
   </Annotation>
   <Annotation about="download.enet.com.cn/html/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="download.enet.com.cn/html/*.html" />
   </Annotation>
   <Annotation about="download.17173.com/*/1*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="download.17173.com/*/1*" />
   </Annotation>
   <Annotation about="www.xiazaiba.com/html/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="www.xiazaiba.com/html/*.html" />
   </Annotation>
   <Annotation about="mydown.yesky.com/soft/*news.shtml">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mydown.yesky.com/soft/*news.shtml" />
   </Annotation>
   <Annotation about="mydown.yesky.com/soft/*.shtml">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mydown.yesky.com/soft/*.shtml" />
   </Annotation>
   <Annotation about="mydown.yesky.com/soft/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mydown.yesky.com/soft/*.html" />
   </Annotation>
   <Annotation about="down.tech.sina.com.cn/3gsoft/soft.php?id=*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="down.tech.sina.com.cn/3gsoft/soft.php?id=*" />
   </Annotation>
   <Annotation about="dl.pcgames.com.cn/download/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dl.pcgames.com.cn/download/*.html" />
   </Annotation>
   <Annotation about="down.tech.sina.com.cn/content/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="down.tech.sina.com.cn/content/*.html" />
   </Annotation>
   <Annotation about="ed200.com/down/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ed200.com/down/*.html" />
   </Annotation>
   <Annotation about="howfile.com/file/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="howfile.com/file/*" />
   </Annotation>
   <Annotation about="howfile.com/ls/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="howfile.com/ls/*" />
   </Annotation>
   <Annotation about="kuai.xunlei.com/d/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="kuai.xunlei.com/d/*" />
   </Annotation>
   <Annotation about="brsbox.com/filebox/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="brsbox.com/filebox/*" />
   </Annotation>
   <Annotation about="163disk.com/fileview_*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="163disk.com/fileview_*.html" />
   </Annotation>
   <Annotation about="fileden.com/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="fileden.com/files/*" />
   </Annotation>
   <Annotation about="box.com/shared/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="box.com/shared/*" />
   </Annotation>
   <Annotation about="box.net/shared/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="box.net/shared/*" />
   </Annotation>
   <Annotation about="xun6.net/folder/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xun6.net/folder/*" />
   </Annotation>
   <Annotation about="xun6.net/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="xun6.net/file/*" />
   </Annotation>
   <Annotation about="filefactory.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="filefactory.com/file/*" />
   </Annotation>
   <Annotation about="freakshare.com/files/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="freakshare.com/files/*.html" />
   </Annotation>
   <Annotation about="freakshare.com/folder/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="freakshare.com/folder/*.html" />
   </Annotation>
   <Annotation about="ifile.it/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="ifile.it/*" />
   </Annotation>
   <Annotation about="bitshare.com/?*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="bitshare.com/?*" />
   </Annotation>
   <Annotation about="bitsnoop.com/*-q*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bitsnoop.com/*-q*.html" />
   </Annotation>
   <Annotation about="3adisk.com/down_*.shtml" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="3adisk.com/down_*.shtml" />
   </Annotation>
   <Annotation about="400disk.com/rfview_*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="400disk.com/rfview_*.html" />
   </Annotation>
   <Annotation about="kuaipan.com.cn/file/id_*.htm" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="kuaipan.com.cn/file/id_*.htm" />
   </Annotation>
   <Annotation about="shop.crsky.com/*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="shop.crsky.com/*.html" />
   </Annotation>
   <Annotation about="torrentbit.net/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentbit.net/torrent/*" />
   </Annotation>
   <Annotation about="torrindex.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrindex.com/torrent/*" />
   </Annotation>
   <Annotation about="vertor.com/torrents/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="vertor.com/torrents/*" />
   </Annotation>
   <Annotation about="torrentman.com/torrent.php?info_hash=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentman.com/torrent.php?info_hash=*" />
   </Annotation>
   <Annotation about="btloft.com/torrent/*.torrent">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btloft.com/torrent/*.torrent" />
   </Annotation>
   <Annotation about="anytorrentsdownload.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="anytorrentsdownload.com/torrent/*" />
   </Annotation>
   <Annotation about="torrentbar.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentbar.com/torrent/*" />
   </Annotation>
   <Annotation about="bitwiki.org/en/torrents/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bitwiki.org/en/torrents/*" />
   </Annotation>
   <Annotation about="pornevo.com/xxx/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="pornevo.com/xxx/*.html" />
   </Annotation>
   <Annotation about="nutorrent.com/torrents/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="nutorrent.com/torrents/*" />
   </Annotation>
   <Annotation about="torrentroom.com/torrent/*-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentroom.com/torrent/*-*.html" />
   </Annotation>
   <Annotation about="picktorrent.com/download/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="picktorrent.com/download/*" />
   </Annotation>
   <Annotation about="mejorenvo.com/*-pelicula-*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mejorenvo.com/*-pelicula-*.html" />
   </Annotation>
   <Annotation about="linuxtracker.org/index.php?page=torrent-details&amp;id=*">
     <Label name="p2p" />
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="linuxtracker.org/index.php?page=torrent-details&amp;id=*" />
   </Annotation>
   <Annotation about="indytorrents.org/stats.html?info_hash=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="indytorrents.org/stats.html?info_hash=*" />
   </Annotation>
   <Annotation about="ilcorsaronero.info/tor/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ilcorsaronero.info/tor/*" />
   </Annotation>
   <Annotation about="btmon.com/*.torrent.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btmon.com/*.torrent.html" />
   </Annotation>
   <Annotation about="torrentbox.com/torrent_details?id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentbox.com/torrent_details?id=*" />
   </Annotation>
   <Annotation about="youtorrent.com/*/*-*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="youtorrent.com/*/*-*" />
   </Annotation>
   <Annotation about="limetorrents.com/*-torrent-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="limetorrents.com/*-torrent-*.html" />
   </Annotation>
   <Annotation about="gamestorrents.com/eng/*-torrent-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="gamestorrents.com/eng/*-torrent-*.html" />
   </Annotation>
   <Annotation about="a.tgbus.com/soft/item-*/">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="a.tgbus.com/soft/item-*/" />
   </Annotation>
   <Annotation about="down.tgbus.com/soft/*.shtml">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="down.tgbus.com/soft/*.shtml" />
   </Annotation>
   <Annotation about="app.cnmo.com/wphone/*/">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="app.cnmo.com/wphone/*/" />
   </Annotation>
   <Annotation about="app.cnmo.com/java/*/">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="app.cnmo.com/java/*/" />
   </Annotation>
   <Annotation about="app.cnmo.com/v5/*/">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="app.cnmo.com/v5/*/" />
   </Annotation>
   <Annotation about="app.cnmo.com/v3/*/">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="app.cnmo.com/v3/*/" />
   </Annotation>
   <Annotation about="app.cnmo.com/iphone/*/">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="app.cnmo.com/iphone/*/" />
   </Annotation>
   <Annotation about="app.cnmo.com/android/*/">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="app.cnmo.com/android/*/" />
   </Annotation>
   <Annotation about="app.cnmo.com/*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="app.cnmo.com/*.html" />
   </Annotation>
   <Annotation about="dropbox.com/sh/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dropbox.com/sh/*" />
   </Annotation>
   <Annotation about="dropbox.com/s/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dropbox.com/s/*" />
   </Annotation>
   <Annotation about="51emule.com/ed2k/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="51emule.com/ed2k/*" />
   </Annotation>
   <Annotation about="filecraft.com/download.php?f=*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filecraft.com/download.php?f=*" />
   </Annotation>
   <Annotation about="searchizz.com/download/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="searchizz.com/download/*" />
   </Annotation>
   <Annotation about="letitbit.net/folder/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="letitbit.net/folder/*" />
   </Annotation>
   <Annotation about="letitbit.net/page/folder/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="letitbit.net/page/folder/*" />
   </Annotation>
   <Annotation about="letitbit.net/download/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="letitbit.net/download/*" />
   </Annotation>
   <Annotation about="dynamic.xlpan.com/download?s=*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dynamic.xlpan.com/download?s=*" />
   </Annotation>
   <Annotation about="everbox.com/f/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="everbox.com/f/*" />
   </Annotation>
   <Annotation about="*.shvns.com/RegionDownloadService/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="*.shvns.com/RegionDownloadService/*.html" />
   </Annotation>
   <Annotation about="163pan.com/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="163pan.com/files/*" />
   </Annotation>
   <Annotation about="p.gokuai.com/index.php?m=Index*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="p.gokuai.com/index.php?m=Index*" />
   </Annotation>
   <Annotation about="down.wmzhe.com/html/view-*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="down.wmzhe.com/html/view-*.html" />
   </Annotation>
   <Annotation about="approb.com/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="approb.com/*.html" />
   </Annotation>
   <Annotation about="dl.3dmgame.com/*/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dl.3dmgame.com/*/*.html" />
   </Annotation>
   <Annotation about="coolapk.com/game-*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="coolapk.com/game-*" />
   </Annotation>
   <Annotation about="coolapk.com/apk-*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="coolapk.com/apk-*" />
   </Annotation>
   <Annotation about="thepiratebay.se/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="thepiratebay.se/torrent/*" />
   </Annotation>
   <Annotation about="uploadstation.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="uploadstation.com/file/*" />
   </Annotation>
   <Annotation about="keygen.ru/get.shtml?*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="keygen.ru/get.shtml?*" />
   </Annotation>
   <Annotation about="cracksguru.com/data/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="cracksguru.com/data/*.html" />
   </Annotation>
   <Annotation about="crackinn.com/view/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="crackinn.com/view/*.html" />
   </Annotation>
   <Annotation about="keygenguru.com/serial/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="keygenguru.com/serial/*.html" />
   </Annotation>
   <Annotation about="keygens.nl/crack/*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="keygens.nl/crack/*" />
   </Annotation>
   <Annotation about="greatcracks.com/cracked_software_download/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="greatcracks.com/cracked_software_download/*.html" />
   </Annotation>
   <Annotation about="keygen.cc/crack/*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="keygen.cc/crack/*" />
   </Annotation>
   <Annotation about="crack.ms/cracks/crack.ms?id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="crack.ms/cracks/crack.ms?id=*" />
   </Annotation>
   <Annotation about="crackteam.ws/get.shtml?*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="crackteam.ws/get.shtml?*" />
   </Annotation>
   <Annotation about="cracks4u.us/?id=*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="cracks4u.us/?id=*" />
   </Annotation>
   <Annotation about="keygen.us/get.shtml?*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="keygen.us/get.shtml?*" />
   </Annotation>
   <Annotation about="bestxl.com/show.php?hash=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bestxl.com/show.php?hash=*" />
   </Annotation>
   <Annotation about="2hd.cc/subtitle.php?urlid=*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="2hd.cc/subtitle.php?urlid=*" />
   </Annotation>
   <Annotation about="2hd.cc/play.php?urlid=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="2hd.cc/play.php?urlid=*" />
   </Annotation>
   <Annotation about="2hd.cc/read.php?vid=*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="2hd.cc/read.php?vid=*" />
   </Annotation>
   <Annotation about="bitsnoop.com/browse/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bitsnoop.com/browse/*" />
   </Annotation>
   <Annotation about="bitsnoop.com/popular/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bitsnoop.com/popular/*" />
   </Annotation>
   <Annotation about="hotfile.com/dl/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="hotfile.com/dl/*" />
   </Annotation>
   <Annotation about="bayfiles.com/file/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bayfiles.com/file/*" />
   </Annotation>
   <Annotation about="filespart.com/dl/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filespart.com/dl/*.html" />
   </Annotation>
   <Annotation about="rapid-search-engine.com/?s=cache*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="rapid-search-engine.com/?s=cache*" />
   </Annotation>
   <Annotation about="fileserve.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="fileserve.com/file/*" />
   </Annotation>
   <Annotation about="good.gd/*.htm" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="good.gd/*.htm" />
   </Annotation>
   <Annotation about="yunfile.com/explorer/getLink/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="yunfile.com/explorer/getLink/*.html" />
   </Annotation>
   <Annotation about="yunfile.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="yunfile.com/file/*" />
   </Annotation>
   <Annotation about="vdisk.cn/down/index/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="vdisk.cn/down/index/*" />
   </Annotation>
   <Annotation about="rayfile.com/*/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="rayfile.com/*/files/*" />
   </Annotation>
   <Annotation about="rayfile.com/files/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="rayfile.com/files/*" />
   </Annotation>
   <Annotation about="justfilesearch.com/file/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="justfilesearch.com/file/*" />
   </Annotation>
   <Annotation about="rapidlibrary.com/files/*.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="rapidlibrary.com/files/*.html" />
   </Annotation>
   <Annotation about="smartyfiles.com/file-id/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="smartyfiles.com/file-id/*" />
   </Annotation>
   <Annotation about="seekdisk.com/file/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="seekdisk.com/file/*" />
   </Annotation>
   <Annotation about="rapidshare.de/files/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="rapidshare.de/files/*" />
   </Annotation>
   <Annotation about="rapidshare.com/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="rapidshare.com/files/*" />
   </Annotation>
   <Annotation about="filecrop.com/*/index.html">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filecrop.com/*/index.html" />
   </Annotation>
   <Annotation about="titantorrent.to/*-category.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="titantorrent.to/*-category.html" />
   </Annotation>
   <Annotation about="titantorrent.to/*torrent*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="titantorrent.to/*torrent*.html" />
   </Annotation>
   <Annotation about="52emule.net/id/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="52emule.net/id/*" />
   </Annotation>
   <Annotation about="5inet.net/View/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="5inet.net/View/*" />
   </Annotation>
   <Annotation about="mininova.org/tor/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="mininova.org/tor/*" />
   </Annotation>
   <Annotation about="torrentdownloads.net/torrent/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="torrentdownloads.net/torrent/*" />
   </Annotation>
   <Annotation about="eztv.it/ep/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="eztv.it/ep/*" />
   </Annotation>
   <Annotation about="eztv.it/shows/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="eztv.it/shows/*" />
   </Annotation>
   <Annotation about="tvunderground.org.ru/index.php?show=*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="tvunderground.org.ru/index.php?show=*" />
   </Annotation>
   <Annotation about="torrentcrazy.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentcrazy.com/torrent/*" />
   </Annotation>
   <Annotation about="youtorrent.com/browse/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="youtorrent.com/browse/*" />
   </Annotation>
   <Annotation about="youtorrent.com/tag/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="youtorrent.com/tag/*" />
   </Annotation>
   <Annotation about="bittorrent.am/download-torrent/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="bittorrent.am/download-torrent/*.html" />
   </Annotation>
   <Annotation about="vdisk.weibo.com/s/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="vdisk.weibo.com/s/*" />
   </Annotation>
   <Annotation about="downxia.com/downinfo/*.html">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="downxia.com/downinfo/*.html" />
   </Annotation>
   <Annotation about="code.google.com/p/*/downloads/detail?*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="code.google.com/p/*/downloads/detail?*" />
   </Annotation>
   <Annotation about="download.pchome.net/*/detail-*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="download.pchome.net/*/detail-*.html" />
   </Annotation>
   <Annotation about="dl.pconline.com.cn/download/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="dl.pconline.com.cn/download/*.html" />
   </Annotation>
   <Annotation about="drivers.mydrivers.com/drivers/*">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="drivers.mydrivers.com/drivers/*" />
   </Annotation>
   <Annotation about="drivers.mydrivers.com/download/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="drivers.mydrivers.com/download/*" />
   </Annotation>
   <Annotation about="myfiles.com.cn/soft/*.htm" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="myfiles.com.cn/soft/*.htm" />
   </Annotation>
   <Annotation about="crsky.com/soft/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="crsky.com/soft/*.html" />
   </Annotation>
   <Annotation about="divxsubtitles.net/page_subtitleinformation.php?ID=*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="divxsubtitles.net/page_subtitleinformation.php?ID=*" />
   </Annotation>
   <Annotation about="sub-titles.net/*/podnapis/i/*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="sub-titles.net/*/podnapis/i/*" />
   </Annotation>
   <Annotation about="podnapisi.net/*-p*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="podnapisi.net/*-p*" />
   </Annotation>
   <Annotation about="torlock.com/torrent/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torlock.com/torrent/*.html" />
   </Annotation>
   <Annotation about="icili.com/Download/xiazai/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="icili.com/Download/xiazai/*" />
   </Annotation>
   <Annotation about="126disk.com/fileview_*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="126disk.com/fileview_*.html" />
   </Annotation>
   <Annotation about="xiaodiao.com/html/*list*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaodiao.com/html/*list*.html" />
   </Annotation>
   <Annotation about="xiaodiao.com/html/*index.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaodiao.com/html/*index.html" />
   </Annotation>
   <Annotation about="xiaodiao.com/html/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiaodiao.com/html/*.html" />
   </Annotation>
   <Annotation about="dytt8.net/html/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dytt8.net/html/*.html" />
   </Annotation>
   <Annotation about="dytt8.net/html/*index.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dytt8.net/html/*index.html" />
   </Annotation>
   <Annotation about="dytt8.net/html/*list*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dytt8.net/html/*list*.html" />
   </Annotation>
   <Annotation about="dytt8.com/html/*index.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dytt8.com/html/*index.html" />
   </Annotation>
   <Annotation about="dytt8.com/html/*list*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dytt8.com/html/*list*.html" />
   </Annotation>
   <Annotation about="dytt8.com/html/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="dytt8.com/html/*.html" />
   </Annotation>
   <Annotation about="xiazai.zol.com.cn/detail/*.shtml">
     <Label name="软件" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="xiazai.zol.com.cn/detail/*.shtml" />
   </Annotation>
   <Annotation about="bt.ktxp.com/html/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bt.ktxp.com/html/*.html" />
   </Annotation>
   <Annotation about="13bt.com/Get.asp?KeyID=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="13bt.com/Get.asp?KeyID=*" />
   </Annotation>
   <Annotation about="1337x.org/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="1337x.org/torrent/*" />
   </Annotation>
   <Annotation about="torrentzap.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentzap.com/torrent/*" />
   </Annotation>
   <Annotation about="fulldls.com/torrent-*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="fulldls.com/torrent-*" />
   </Annotation>
   <Annotation about="oabt.org/show.php?tid=*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="oabt.org/show.php?tid=*" />
   </Annotation>
   <Annotation about="downg.com/soft/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="downg.com/soft/*.html" />
   </Annotation>
   <Annotation about="verycd.com/topics/*comments">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="verycd.com/topics/*comments" />
   </Annotation>
   <Annotation about="wenku.baidu.com/view/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="wenku.baidu.com/view/*" />
   </Annotation>
   <Annotation about="docin.com/p-*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
-    <AdditionalData attribute="original_url" value="docin.com/p-*.html" />
   </Annotation>
   <Annotation about="down.qiannao.com/space/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="down.qiannao.com/space/file/*" />
   </Annotation>
   <Annotation about="btmee.com/show/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btmee.com/show/*" />
   </Annotation>
   <Annotation about="d.xvna.com/xiazai-*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="d.xvna.com/xiazai-*" />
   </Annotation>
   <Annotation about="iverycd.com/details/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="iverycd.com/details/*" />
   </Annotation>
   <Annotation about="share.dmhy.org/topics/view/*.html">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="share.dmhy.org/topics/view/*.html" />
   </Annotation>
   <Annotation about="icili.com/emule/download/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="icili.com/emule/download/*" />
   </Annotation>
   <Annotation about="bt.1000fr.net/show.php?hash=*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bt.1000fr.net/show.php?hash=*" />
   </Annotation>
   <Annotation about="up.dream2008.cn/?id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="up.dream2008.cn/?id=*" />
   </Annotation>
   <Annotation about="share.popgo.org/program-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
-    <AdditionalData attribute="original_url" value="share.popgo.org/program-*.html" />
   </Annotation>
   <Annotation about="seedpeer.me/details/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="seedpeer.me/details/*.html" />
   </Annotation>
   <Annotation about="sumotorrent.com/en/details/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="sumotorrent.com/en/details/*.html" />
   </Annotation>
   <Annotation about="qvocd.com/emule.php*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="qvocd.com/emule.php*.html" />
   </Annotation>
   <Annotation about="ishare.iask.sina.com.cn/f/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="文档" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="ishare.iask.sina.com.cn/f/*" />
   </Annotation>
   <Annotation about="down.it168.com/*/index.shtml" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="软件" />
-    <AdditionalData attribute="original_url" value="down.it168.com/*/index.shtml" />
   </Annotation>
   <Annotation about="mnova.eu/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="mnova.eu/torrent/*" />
   </Annotation>
   <Annotation about="demonoid.me/files/details/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="demonoid.me/files/details/*" />
   </Annotation>
   <Annotation about="h33t.com/details.php?id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="h33t.com/details.php?id=*" />
   </Annotation>
   <Annotation about="fenopy.eu/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="fenopy.eu/torrent/*" />
   </Annotation>
   <Annotation about="kat.ph/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="kat.ph/*.html" />
   </Annotation>
   <Annotation about="kat.ph/search/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="kat.ph/search/*" />
   </Annotation>
   <Annotation about="filedonkey.com/url/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="filedonkey.com/url/*" />
   </Annotation>
   <Annotation about="torrentcrazy.com/03c/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentcrazy.com/03c/*" />
   </Annotation>
   <Annotation about="btscene.eu/details/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btscene.eu/details/*" />
   </Annotation>
   <Annotation about="torrentportal.com/details/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentportal.com/details/*" />
   </Annotation>
   <Annotation about="torrenthound.com/hash/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrenthound.com/hash/*" />
   </Annotation>
   <Annotation about="torrentreactor.net/torrents/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentreactor.net/torrents/*" />
   </Annotation>
   <Annotation about="bt-chat.com/details.php?*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="bt-chat.com/details.php?*" />
   </Annotation>
   <Annotation about="torrents.net/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrents.net/torrent/*" />
   </Annotation>
   <Annotation about="btjunkie.org/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="btjunkie.org/torrent/*" />
   </Annotation>
   <Annotation about="torrentdeluxe.com/torrents/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="torrentdeluxe.com/torrents/*" />
   </Annotation>
   <Annotation about="800disk.com/xiazai/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="800disk.com/xiazai/*" />
   </Annotation>
   <Annotation about="*.ovfile.com/*">
     <Label name="网盘" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="ovfile.com" />
   </Annotation>
   <Annotation about="simplecd.org/id/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="simplecd.org/id/*" />
   </Annotation>
   <Annotation about="monova.org/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="monova.org/torrent/*" />
   </Annotation>
   <Annotation about="extratorrent.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="extratorrent.com/torrent/*" />
   </Annotation>
   <Annotation about="thepiratebay.org/torrent/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <AdditionalData attribute="original_url" value="thepiratebay.org/torrent/*" />
   </Annotation>
   <Annotation about="*.qjwm.com/down*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="*.qjwm.com/down*" />
   </Annotation>
   <Annotation about="sub.eastgame.org/archives/*">
     <Label name="字幕" />
     <Label name="_cse_twgohm0sz8q" />
-    <AdditionalData attribute="original_url" value="sub.eastgame.org/archives/*" />
   </Annotation>
   <Annotation about="*.uploadstation.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="uploadstation.com" />
   </Annotation>
   <Annotation about="*.file-post.net/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="file-post.net" />
   </Annotation>
   <Annotation about="*.min.us/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="min.us" />
   </Annotation>
   <Annotation about="*.jumbofiles.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="jumbofiles.com" />
   </Annotation>
   <Annotation about="*.filekeen.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="filekeen.com" />
   </Annotation>
   <Annotation about="*.load.to/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="load.to" />
   </Annotation>
   <Annotation about="*.enterupload.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="enterupload.com" />
   </Annotation>
   <Annotation about="*.zshare.net/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="zshare.net" />
   </Annotation>
   <Annotation about="*.multiupload.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="multiupload.com" />
   </Annotation>
   <Annotation about="*.mirrorcreator.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="mirrorcreator.com" />
   </Annotation>
 </Annotations>
