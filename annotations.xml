@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Annotations start="0" num="902" total="902">
+<Annotations start="0" num="901" total="901">
   <Annotation about="titlovi.com/titlovi/*-*" timestamp="0x000503de11dac86e" href="Chd0aXRsb3ZpLmNvbS90aXRsb3ZpLyotKhDukOuO4fvAAg">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="字幕" />
@@ -4506,10 +4506,5 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
     <AdditionalData attribute="original_url" value="mirrorcreator.com" />
-  </Annotation>
-  <Annotation about="*.x7.to/*" score="1" timestamp="0x0004b6a755a32d4d" href="CgkqLng3LnRvLyoQzdqMrfXUrQI">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
-    <AdditionalData attribute="original_url" value="x7.to" />
   </Annotation>
 </Annotations>
