@@ -3133,29 +3133,11 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="2hd.cc/subtitle.php?urlid=*">
-    <Label name="字幕" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="2hd.cc/play.php?urlid=*">
-    <Label name="p2p" />
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="2hd.cc/read.php?vid=*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="video" />
-    <Label name="p2p" />
-  </Annotation>
   <Annotation about="bitsnoop.com/browse/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bitsnoop.com/popular/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="hotfile.com/dl/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
   </Annotation>
   <Annotation about="bayfiles.com/file/*">
     <Label name="网盘" />
