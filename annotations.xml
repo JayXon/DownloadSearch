@@ -3568,7 +3568,7 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
   </Annotation>
-  <Annotation about="*.load.to/*" score="1">
+  <Annotation about="load.to/*/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
   </Annotation>
@@ -3584,7 +3584,7 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
   </Annotation>
-  <Annotation about="*.mirrorcreator.com/*" score="1">
+  <Annotation about="mirrorcreator.com/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="网盘" />
   </Annotation>
