@@ -2,20 +2,20 @@
 <Annotations>
   <Annotation about="titlovi.com/titlovi/*-*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="字幕" />
+    <Label name="subtitle" />
   </Annotation>
   <Annotation about="en.titlovi.com/subtitles/*-*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="字幕" />
+    <Label name="subtitle" />
   </Annotation>
   <Annotation about="dbfansub.com/tvshow/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="video" />
   </Annotation>
   <Annotation about="dbfansub.com/movie/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="video" />
   </Annotation>
   <Annotation about="torrentz.to/*-torrent-download-*.php">
@@ -28,7 +28,7 @@
   </Annotation>
   <Annotation about="bookfb2.ru/?p=*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="mp4ba.com/show.php?hash=*">
     <Label name="_cse_twgohm0sz8q" />
@@ -36,7 +36,7 @@
   </Annotation>
   <Annotation about="t00y.com/file/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="btindex.org/files/*">
     <Label name="_cse_twgohm0sz8q" />
@@ -48,11 +48,11 @@
   </Annotation>
   <Annotation about="nfil.es/a/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="shuge.org/ebook/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="31bt.com/Item/*">
     <Label name="_cse_twgohm0sz8q" />
@@ -64,7 +64,7 @@
   </Annotation>
   <Annotation about="shoujikz.com/share/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="torrentz.ch/*=">
     <Label name="_cse_exclude_twgohm0sz8q" />
@@ -82,23 +82,23 @@
   </Annotation>
   <Annotation about="210.37.32.28/bookdetail.asp?bkid=*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="chnxp.com.cn/soft/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="staffempire.com/siteinfo/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="haodoo.net/?M=Share&amp;P=*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="lib.freescienceengineering.org/view.php?id=*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="fmscg.com/*/v_*.html">
     <Label name="_cse_twgohm0sz8q" />
@@ -138,19 +138,19 @@
   </Annotation>
   <Annotation about="*.codeplex.com/releases/view/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="cslibrary.stanford.edu/*.pdf">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="aupress.ca/index.php/books/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="infoq.com/minibooks/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="bts.to/*-tf*.html">
     <Label name="_cse_twgohm0sz8q" />
@@ -190,15 +190,15 @@
   </Annotation>
   <Annotation about="yifysubtitles.com/movie-imdb/tt*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="字幕" />
+    <Label name="subtitle" />
   </Annotation>
   <Annotation about="yifysubtitles.com/subtitles/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="字幕" />
+    <Label name="subtitle" />
   </Annotation>
   <Annotation about="ffpan.com/share-*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="torrent.zoozle.org/download.php?n=*">
     <Label name="_cse_twgohm0sz8q" />
@@ -214,14 +214,14 @@
   </Annotation>
   <Annotation about="macupdate.com/app/mac/*/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="filestube.to/*/">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filestube.to/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="eztv-proxy.net/shows/*">
     <Label name="_cse_twgohm0sz8q" />
@@ -239,23 +239,23 @@
   </Annotation>
   <Annotation about="sourceforge.net/projects/*/files/*/download">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="pc6.com/azyx/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="pc6.com/az/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="skycn.com/soft/appid/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="firedrive.com/share/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="bundles.bittorrent.com/bundles/*">
     <Label name="_cse_twgohm0sz8q" />
@@ -269,14 +269,14 @@
   </Annotation>
   <Annotation about="ebooks.adelaide.edu.au/*/">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="share.weiyun.com/*.">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="share.weiyun.com/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="*.nyaa.se/?page=torrentinfo&amp;tid=*">
     <Label name="_cse_twgohm0sz8q" />
@@ -294,15 +294,15 @@
   </Annotation>
   <Annotation about="librivox.org/*-*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="haodoo.net/?M=book&amp;P=*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="e-booksdirectory.com/details.php?ebook=*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="phdproxy.com/index.php?page=torrent-details&amp;id=*">
     <Label name="_cse_twgohm0sz8q" />
@@ -310,7 +310,7 @@
   </Annotation>
   <Annotation about="ebooks.cawok.pro/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="simpled2k.com/entries/*">
     <Label name="_cse_twgohm0sz8q" />
@@ -318,11 +318,11 @@
   </Annotation>
   <Annotation about="pan.baidu.com/netdisk/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="pan.baidu.com/wap/link?*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="getcd.org/topic/*">
     <Label name="_cse_twgohm0sz8q" />
@@ -330,7 +330,7 @@
   </Annotation>
   <Annotation about="as.baidu.com/a/item?docid=*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="onlytorrents.com/download*">
     <Label name="_cse_twgohm0sz8q" />
@@ -347,7 +347,7 @@
   <Annotation about="psychocydd.co.uk/details.php?id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-    <Label name="音乐" />
+    <Label name="music" />
   </Annotation>
   <Annotation about="h33t.to/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
@@ -375,11 +375,11 @@
   </Annotation>
   <Annotation about="fileswap.com/dl/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="yun.baidu.com/s/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="torrentus.to/*-*.html">
     <Label name="_cse_twgohm0sz8q" />
@@ -387,7 +387,7 @@
   </Annotation>
   <Annotation about="zmusic.mobi/*/track/s/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="音乐" />
+    <Label name="music" />
   </Annotation>
   <Annotation about="isohunt.to/torrent_details/*">
     <Label name="_cse_twgohm0sz8q" />
@@ -395,7 +395,7 @@
   </Annotation>
   <Annotation about="datafilehost.com/d/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="tiantianbt.net/btdl/*">
     <Label name="_cse_twgohm0sz8q" />
@@ -407,23 +407,23 @@
   </Annotation>
   <Annotation about="yun.baidu.com/share/link?*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="s.yunio.com/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="pan.baidu.com/share/link?*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="sufile.com/file/*.html">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="bego.cc/file/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="smartorrent.com/?page=torrentinfo&amp;tid=*">
     <Label name="_cse_twgohm0sz8q" />
@@ -431,7 +431,7 @@
   </Annotation>
   <Annotation about="pan.baidu.com/s/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="xsimplecd.com/d/*.html">
     <Label name="_cse_twgohm0sz8q" />
@@ -439,7 +439,7 @@
   </Annotation>
   <Annotation about="subscene.com/subtitles/*/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="字幕" />
+    <Label name="subtitle" />
   </Annotation>
   <Annotation about="kickmirror.com/*.html">
     <Label name="p2p" />
@@ -451,23 +451,23 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="32666.com/file-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="mediafire.com/watch/*.*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ryushare.com/*/*.*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="qiannao.com/file/*/">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ompan.com/content-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="vitorrent.org/torrent/*">
@@ -475,7 +475,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="vpan.cc/file-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentmao.com/bt-*.html">
@@ -505,22 +505,22 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="witguides.com/details.asp?id=*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ebooksread.com/authors-eng/*/*-*.shtml">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bookboon.com/*-ebooks">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bookboon.com/*-ebook">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.bookos.org/book/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yifyproxy.net/movie/*_*">
@@ -550,11 +550,11 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="libgen.info/view.php?id=*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filepuma.com/download/*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="gutenberg.org/*/search/">
@@ -593,7 +593,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="it-ebooks.info/book/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dybee.net/*-*.html">
@@ -608,11 +608,11 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="nyhx.com/down-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="jianguoyun.com/p/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dy1010.com/resource/*/*.html">
@@ -628,11 +628,11 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="nyhx.com/file-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="wandoujia.com/apps/*.*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="pirateproxy.me/torrent/*">
@@ -674,20 +674,20 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dl.portablesoft.org/down/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="uploaded.net/f/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="uploaded.net/file/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="xdowns.com/soft/*/*/20*oft_*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="bt.shousibaocai.com/hash/*">
     <Label name="p2p" />
@@ -734,7 +734,7 @@
   </Annotation>
   <Annotation about="shooter.cn/xml/sub/*.xml" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="字幕" />
+    <Label name="subtitle" />
   </Annotation>
   <Annotation about="thepiratebay.sx/torrent/*">
     <Label name="p2p" />
@@ -746,16 +746,16 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yyets.com/*subtitle/*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="subtitlesbank.com/*subtitles/movieid-*/">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="subtitulos.es/*/*x">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="字幕" />
+    <Label name="subtitle" />
   </Annotation>
   <Annotation about="xlpu.cc/html/*.html">
     <Label name="_cse_twgohm0sz8q" />
@@ -794,15 +794,15 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="tvsubs.net/subtitle-*.html">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="tvsubtitles.net/subtitle-*.html">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="seriessub.com/sous-titres/*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="etdown.net/k-*">
@@ -814,7 +814,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yzys.tv/subtitles/*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yzys.tv/resource/*">
@@ -839,7 +839,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yayaxz.com/subtitles/*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="mp4mkv.org/show.php?hash=*">
@@ -859,19 +859,19 @@
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="keygen.la/*/*-*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yingyong.so/app/*.htm">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yunpan.cn/Q*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.yunpan.cn/lk/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="xiaohx.com/*i">
@@ -895,14 +895,14 @@
   </Annotation>
   <Annotation about="turbobit.net/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="xverycd.com/s/*/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="rghost.net/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="crazy-torrent.com/web/*.html">
@@ -928,31 +928,31 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="zy.51gugu.com/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bego.cc/file/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="400gb.com/file/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="supan.la/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="79pan.com/file-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="fileim.com/file/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yimuhe.com/file-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentbutler.eu/*-*">
@@ -965,7 +965,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.bookfi.org/book/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="publichd.se/index.php?page=torrent-details&amp;id=*">
@@ -983,7 +983,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="warez.ag/download/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="tormovies.org/movie/*.html">
@@ -1008,7 +1008,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filehippo.com/download_*/*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="verycd.gdajie.com/topics/*">
@@ -1016,7 +1016,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="pc6.com/softview/SoftView_*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.verycd.com/topics/*">
@@ -1028,15 +1028,15 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="tuku.cc/comic/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="acmoe.com/comic/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="hostex.org/dl/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dayula.net/*/*.html">
@@ -1045,31 +1045,31 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bilege.com/bk/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="txdzs.com/download/*/index.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="lvsetxt.com/ebook/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="52eshu.com/xiaoshuo/html/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="qisuu.com/Shtml*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ebuk.cn/book/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ebuk.cn/pdf/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="tpb.par-anoia.net/torrent/*">
@@ -1081,11 +1081,11 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="fenxiang.qq.com/x/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="fenxiang.qq.com/filedownload.php?*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="gaaks.com/*/site-news/">
@@ -1124,7 +1124,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="orsoon.com/Soft/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentdownloads.me/torrent/*">
@@ -1132,20 +1132,20 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="beemp3.com/download.php?file=*">
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="gameupdates.org/details.php?id=*">
     <Label name="p2p" />
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="jamendo.com/*/artist/*">
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="jamendo.com/*/track/*">
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="clearbits.net/torrents/*">
@@ -1223,11 +1223,11 @@
   </Annotation>
   <Annotation about="bt.etree.org/details.php?id=*">
     <Label name="p2p" />
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="tophqbooks.com/books/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bitfish8.com/*/*/20*.html">
@@ -1249,14 +1249,14 @@
     <Label name="video" />
   </Annotation>
   <Annotation about="duoduomi.com/ebook/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="gallery.mobile9.com/f/*/">
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="epubbud.com/book.php?g=*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="goootooo.com/down.php?id=*">
@@ -1283,7 +1283,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="portablefreeware.com/?id=*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="longbuluo.com/video/*.html">
@@ -1299,34 +1299,34 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="music.baidu.com/artist/*">
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="music.baidu.com/album/*">
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="music.baidu.com/song/*">
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="wenkudaquan.com/doc/*/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="freecomputerbooks.com/*-*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="qcenglish.com/ebook/list_*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="qcenglish.com/ebook/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="xiaoshuwu.in/index.php/*/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.114bt.com/s*">
@@ -1343,7 +1343,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="down.52pk.com/xiazai/*.shtml">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="xiaopian.com/html/*index.html">
@@ -1357,15 +1357,15 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filesspy.com/download/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="d.pr/f/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="appyao.com/ku/App_*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="hotne.ws/download/*">
@@ -1389,15 +1389,15 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="datafilehost.com/download-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dl.vmall.com/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="magazinesdownload.com/post/*/*.aspx">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="tvu.org.ru/index.php?show=episodes&amp;sid=*">
@@ -1406,15 +1406,15 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="top100.cn/download/*">
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="top100.cn/song/*">
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="top100.cn/album/*.shtml">
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="linuxtracker.org/index.php?page=details&amp;id=*">
@@ -1434,24 +1434,24 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="arxiv.org/pdf/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="arxiv.org/abs/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.zippyshare.com/v/*/file.html">
-    <Label name="网盘" />
-    <Label name="音乐" />
+    <Label name="filehost" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yypan.com/views-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="kuai.xunlei.com/s/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="w.xzshoufa.com/down.php/*.html">
@@ -1473,11 +1473,11 @@
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="coolapk.com/game/*/">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="coolapk.com/apk/*/">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="goxiazai.cc/html/20*/*.html">
@@ -1517,16 +1517,16 @@
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="apktops.com/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="apknew.com/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="extabit.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="torrentdownload.ws/*-q">
     <Label name="_cse_exclude_twgohm0sz8q" />
@@ -1546,7 +1546,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="edisk.eu/*download/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentkitty.com/torrent/*.html">
@@ -1562,29 +1562,29 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="51ctzs.com/html/*/*/20*.html">
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="2shared.com/file/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="2shared.com/video/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="2shared.com/audio/*.html">
-    <Label name="网盘" />
-    <Label name="音乐" />
+    <Label name="filehost" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="leechers.info/*-*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="picofiles.com/*/*-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="thepiratebay.se/tv/*/S*/">
@@ -1597,52 +1597,52 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ufile.eu/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filesin.com/*/download.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="downarchive.com/dl/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="downarchive.com/games/*/*-*.html">
-    <Label name="网盘" />
-    <Label name="软件" />
+    <Label name="filehost" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="downarchive.com/ebooks/*/*-*.html">
-    <Label name="网盘" />
-    <Label name="文档" />
+    <Label name="filehost" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="downarchive.com/music/*/*-*.html">
-    <Label name="网盘" />
-    <Label name="音乐" />
+    <Label name="filehost" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="downarchive.com/software/*/*-*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="downarchive.com/movies/*/*-*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="downarchive.com/*/*-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="coda.fm/albums/*">
     <Label name="p2p" />
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="moviesubtitles.net/subtitles-details/*/*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="rarbg.com/torrents/filmi/download/*/torrent.html">
@@ -1650,7 +1650,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="subscene.com/*/*/subtitle-*.aspx">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="movies.io/m/search?q=*">
@@ -1667,7 +1667,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="wtorrent.org/subtitles/*/*.html">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="54new.com/seed-*.html">
@@ -1692,28 +1692,28 @@
   </Annotation>
   <Annotation about="hulkshare.com/*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="音乐" />
+    <Label name="music" />
   </Annotation>
   <Annotation about="avaxhome.ws/music/*/*.html">
-    <Label name="音乐" />
+    <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="uploading.com/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="uploaded.to/folder/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="uploaded.to/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="2shared.com/document/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
-    <Label name="文档" />
+    <Label name="filehost" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="*.simplecd.org/entry/*">
     <Label name="p2p" />
@@ -1728,43 +1728,43 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="4shared.com/*/*.htm">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="xunleikuaichuan.com/ziyuan-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="download.26g.com/down/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.gokuai.com/f/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="*.gokuai.com/a/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ziddu.com/download/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="static.apk.hiapk.com/html/*/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="anzhi.com/soft_*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="kuaipan.cn/file/id_*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="u.ko321.com/html_1/*/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="newalbumreleases.net/*/*-20*/">
@@ -1776,18 +1776,18 @@
   </Annotation>
   <Annotation about="crocko.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="ahashare.com/torrents-details.php?id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="hotfilerock.com/*-download-pid*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="android.myapp.com/android/appdetail.jsp?appid=*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="openclasses.info/archives/*/">
@@ -1798,7 +1798,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="down20.com/file/*/">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="55bt.eu/*,*/*.html">
@@ -1811,22 +1811,22 @@
     <Label name="p2p" />
   </Annotation>
   <Annotation about="cracknet.net/data/*_*-bee*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bt.3dmgame.com/show.php?hash=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="bt.ali213.net/show.php?hash=*">
     <Label name="p2p" />
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bt.ali213.net/show-*.html">
     <Label name="p2p" />
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="hltm.cc/view/*.html">
@@ -1834,7 +1834,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="pipipan.com/file/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="usabit.com/torrent/*/*.html">
@@ -1843,26 +1843,26 @@
   </Annotation>
   <Annotation about="filejungle.com/f/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="depositfiles.com/*/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="*.minus.com/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.edudisk.cn/down.aspx?down=ok&amp;filepath=*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="addic7ed.com/serie/*/*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="addic7ed.com/movie/*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ttmeiju.com/meiju/*.html">
@@ -1883,59 +1883,59 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="download.sohu.com/down_detail/0/*_index.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ebook3000.com/*-*_*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="prefiles.com/*/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="wowebook.be/book/*/">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="avaxhome.ws/ebooks/*/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filepost.com/files/*/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ebookshare.net/*/index.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ebookshare.net/*/*-*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="xidong.net/File001/File_*.html">
     <Label name="p2p" />
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="shupeng.com/book/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="qcenglish.com/ebook/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="inien.com/w/">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="inien.com/w/data/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="book.zi5.me/books/detail/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="mises.org/media/*/*">
@@ -1943,7 +1943,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="mises.org/document/*/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentproject.com/*/">
@@ -1955,7 +1955,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="allsubs.org/*subs-download*/">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bt.wiiyi.com/show-*.html">
@@ -1968,7 +1968,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="d.119g.com/f/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dl.playnext.cn/files/*.html">
@@ -2018,11 +2018,11 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="gnomefiles.org/content/show.php/*?content=*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dl.dropbox.com/u/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bt.killman.net/show.php?hash=*">
@@ -2044,7 +2044,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="skydrive.live.com/redir?resid=*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filetram.com/q/*">
@@ -2057,7 +2057,7 @@
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="keygenbase.com/data/*_*-bee*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="slideshare.net/mobile/*">
@@ -2079,18 +2079,18 @@
   </Annotation>
   <Annotation about="netload.in/*.htm" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="dl.dbank.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="filestube.com/trends/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filestube.com/*/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="torrentfunk.com/torrent/*.html">
     <Label name="p2p" />
@@ -2121,7 +2121,7 @@
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="oneddl.eu/*/*-*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentino.com/torrents/*">
@@ -2146,7 +2146,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="hrtsea.com/down/view/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="jz5u.com/Soft/*/index_*.html">
@@ -2156,53 +2156,53 @@
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="jz5u.com/Soft/*/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="7edown.com/soft/down/soft_*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="huacolor.com/soft/huacolor*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="huacolor.com/soft/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="codefans.net/soft/*.shtml">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="downza.cn/soft/html/list*-*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="downza.cn/soft/html/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="downbank.cn/s/*_*.htm">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="downbank.cn/s/*.htm">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="tuts4you.com/download.php?view.*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="rapidgator.net/file/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="goldesel.to/download/*/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="share-online.biz/dl/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="hd-area.org/index.php?id=*">
@@ -2210,11 +2210,11 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="uploadcity.com/?f=*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="vip-file.com/download/*/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="emule-cd.com/emule.php?vid-*.html">
@@ -2229,19 +2229,19 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="91pdf.org/20*/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="91txt.org/20*/*-*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="91umd.com/20*-*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="u.bucee.net/dl/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="mologer.cn/download.asp?id=*">
@@ -2253,31 +2253,31 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yxbao.com/game/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yxbao.com/bd/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="78v.com/sp/download/sp_*.shtml">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="78v.com/PC/Download/down_*.shtml">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yxdown.com/SoftView/SoftView_*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="962.net/youxi/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="muzhiwan.com/game-i-*-*.*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="369ys.com/*/20*-*/*.html">
@@ -2289,39 +2289,39 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filetram.com/*/*-*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="321.la/f_*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="6disk.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="token.lenovodata.com/checkAccessCode.php?code=*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="*.ys168.com/" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="mediafire.com/?*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="8698kk.com/doc-*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yfdisk.com/file/*/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="www.unibytes.com/*B">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="h33t.com/tor/*/*">
@@ -2329,68 +2329,68 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="vip-file.com/downloadlib/*/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="www.filehost.ws/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="appifan.com/app-*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.wlyp.cn/down_*.shtml">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="skydrive.live.com/?cid=*id=*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="*.office.live.com/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ineedfile2.com/download/*-*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="slideshare.net/*/*-*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="docs.google.com/present/view?id=*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="docs.google.com/document/d/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="docs.google.com/open?id=*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="docs.google.com/leaf?id=*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="docs.google.com/Doc?docid=*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="docs.google.com/folder/d/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="docs.google.com/file/d/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="furk.net/df/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="torrentalot.com/p2p/*/*.torrent">
     <Label name="p2p" />
@@ -2401,28 +2401,28 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="fileforum.betanews.com/detail/*/*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="my.cloudme.com/*.*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="my.icloud.com/*.*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="kukai.cc/fileview_*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="download.csdn.net/detail/*/*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="sharej.com/topic/*/">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="d.52rwdm.com/view/*.html">
@@ -2430,133 +2430,133 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="fiberupload.com/*/*.*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="cnshare.org/index.php/20*/*-*/">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.feedbooks.com/book/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.feedbooks.com/userbook/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="zimuw.com/sub/*/">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="data.99pan.com/download/*_*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="rayfile.org/show.php?tid=*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.qupan.cc/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yimuhe.com/fileview.php?id=*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="4shared.com/*/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="www.ohchr.org/Documents/Publications/*.pdf">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="www2.hn.psu.edu/faculty/jmanis/*.htm">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="gutenberg.org/ebooks/">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="gutenberg.org/ebooks/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="nirc.nanzan-u.ac.jp/publications/*/*.htm">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="plough.com/ebooks/*index.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="plough.com/ebooks/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="catalog.hathitrust.org/Record/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="u.xunzai.com/fileview_*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dynamic.xlpan.com/file/*/*-*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="manybooks.net/titles/*.html">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.us.archive.org/*/items/*">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.edu.cn/*.xlsx">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.edu.cn/*.xls">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.edu.cn/*.pdf">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.edu.cn/*.pptx">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.edu.cn/*.ppt">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.edu.cn/*.docx">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.edu.cn/*.doc">
-    <Label name="文档" />
+    <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="9sub.com/sub/*/*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ytet.org/20*/*-*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="opensubtitles.org/*subtitles/*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentr.eu/torrents/*.html">
@@ -2565,10 +2565,10 @@
   </Annotation>
   <Annotation about="d.1tpan.com/tp*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="gxp.cc/file-*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bttiantang.com/subject/*.html">
@@ -2614,7 +2614,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="51ipa.com/*/*-iP*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="233d.com/3Dyingshixiazai/20*/*.shtml">
@@ -2622,7 +2622,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="down.ali213.net/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="piaohua.com/html/*index.html">
@@ -2636,27 +2636,27 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="gamersky.com/Soft/*/*.shtml">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="onlinedown.net/soft/*.htm" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="just-download.com/*/*-*.*/download/*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="windows.podnova.com/software/*.htm">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="www.newhua.com.cn/soft/*.htm">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="box.com/s/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="laidown.com/k-*">
@@ -2672,7 +2672,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="1000eb.com/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dy131.com/jddy/*-*/*.html">
@@ -2680,27 +2680,27 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="sendspace.com/folder/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="sendspace.com/file/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bestfreewaredownload.com/freeware/t-free-*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dytt8.com/html/game/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dytt8.net/html/game/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ctdisk.com/file/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="d1dianying.com/?a=show&amp;id=*">
@@ -2728,70 +2728,70 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filecluster.com/*/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="afterdawn.com/software/*/*.cfm">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="portableapps.com/apps/*/*_portable">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="majorgeeks.com/*_d*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="softpedia.com/progDownload/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="softpedia.com/get/*.shtml">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="download.cnet.com/*/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="down.zdnet.com.cn/detail/*.shtml">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="download.enet.com.cn/html/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="download.17173.com/*/1*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="www.xiazaiba.com/html/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="mydown.yesky.com/soft/*news.shtml">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="mydown.yesky.com/soft/*.shtml">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="mydown.yesky.com/soft/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="down.tech.sina.com.cn/3gsoft/soft.php?id=*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dl.pcgames.com.cn/download/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="down.tech.sina.com.cn/content/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ed200.com/down/*.html">
@@ -2799,64 +2799,64 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="howfile.com/file/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="howfile.com/ls/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="kuai.xunlei.com/d/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="brsbox.com/filebox/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="163disk.com/fileview_*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="fileden.com/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="box.com/shared/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="box.net/shared/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="xun6.net/folder/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="xun6.net/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="filefactory.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="freakshare.com/files/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="freakshare.com/folder/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="ifile.it/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="bitshare.com/?*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="bitsnoop.com/*-q*.html">
     <Label name="p2p" />
@@ -2864,15 +2864,15 @@
   </Annotation>
   <Annotation about="3adisk.com/down_*.shtml" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="400disk.com/rfview_*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="kuaipan.com.cn/file/id_*.htm" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="shop.crsky.com/*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
@@ -2933,7 +2933,7 @@
   </Annotation>
   <Annotation about="linuxtracker.org/index.php?page=torrent-details&amp;id=*">
     <Label name="p2p" />
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="indytorrents.org/stats.html?info_hash=*">
@@ -2963,49 +2963,49 @@
   <Annotation about="gamestorrents.com/eng/*-torrent-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="a.tgbus.com/soft/item-*/">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="down.tgbus.com/soft/*.shtml">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="app.cnmo.com/wphone/*/">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="app.cnmo.com/java/*/">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="app.cnmo.com/v5/*/">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="app.cnmo.com/v3/*/">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="app.cnmo.com/iphone/*/">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="app.cnmo.com/android/*/">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="app.cnmo.com/*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dropbox.com/sh/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dropbox.com/s/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="51emule.com/ed2k/*">
@@ -3013,63 +3013,63 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filecraft.com/download.php?f=*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="searchizz.com/download/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="letitbit.net/folder/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="letitbit.net/page/folder/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="letitbit.net/download/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="dynamic.xlpan.com/download?s=*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="everbox.com/f/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.shvns.com/RegionDownloadService/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="163pan.com/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="p.gokuai.com/index.php?m=Index*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="down.wmzhe.com/html/view-*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="approb.com/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dl.3dmgame.com/*/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="coolapk.com/game-*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="coolapk.com/apk-*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="thepiratebay.se/torrent/*">
@@ -3078,50 +3078,50 @@
   </Annotation>
   <Annotation about="uploadstation.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="keygen.ru/get.shtml?*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="cracksguru.com/data/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="crackinn.com/view/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="keygenguru.com/serial/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="keygens.nl/crack/*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="greatcracks.com/cracked_software_download/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="keygen.cc/crack/*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="crack.ms/cracks/crack.ms?id=*">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="crackteam.ws/get.shtml?*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="cracks4u.us/?id=*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="keygen.us/get.shtml?*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bestxl.com/show.php?hash=*">
@@ -3136,71 +3136,71 @@
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bayfiles.com/file/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="filespart.com/dl/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="rapid-search-engine.com/?s=cache*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="fileserve.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="good.gd/*.htm" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="yunfile.com/explorer/getLink/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yunfile.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="vdisk.cn/down/index/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="rayfile.com/*/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="rayfile.com/files/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="justfilesearch.com/file/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="rapidlibrary.com/files/*.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="smartyfiles.com/file-id/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="seekdisk.com/file/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="rapidshare.de/files/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="rapidshare.com/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="filecrop.com/*/index.html">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="titantorrent.to/*-category.html">
@@ -3256,51 +3256,51 @@
     <Label name="p2p" />
   </Annotation>
   <Annotation about="vdisk.weibo.com/s/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="downxia.com/downinfo/*.html">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="code.google.com/p/*/downloads/detail?*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="download.pchome.net/*/detail-*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="dl.pconline.com.cn/download/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="drivers.mydrivers.com/drivers/*">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="drivers.mydrivers.com/download/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="myfiles.com.cn/soft/*.htm" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="crsky.com/soft/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="divxsubtitles.net/page_subtitleinformation.php?ID=*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="sub-titles.net/*/podnapis/i/*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="podnapisi.net/*-p*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torlock.com/torrent/*.html">
@@ -3313,7 +3313,7 @@
   </Annotation>
   <Annotation about="126disk.com/fileview_*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="xiaodiao.com/html/*list*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
@@ -3346,7 +3346,7 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="xiazai.zol.com.cn/detail/*.shtml">
-    <Label name="软件" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bt.ktxp.com/html/*.html">
@@ -3376,22 +3376,22 @@
   </Annotation>
   <Annotation about="downg.com/soft/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="verycd.com/topics/*comments">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="wenku.baidu.com/view/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="docin.com/p-*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
+    <Label name="document" />
   </Annotation>
   <Annotation about="down.qiannao.com/space/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="btmee.com/show/*">
     <Label name="p2p" />
@@ -3443,12 +3443,12 @@
   </Annotation>
   <Annotation about="ishare.iask.sina.com.cn/f/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="文档" />
-    <Label name="网盘" />
+    <Label name="document" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="down.it168.com/*/index.shtml" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="软件" />
+    <Label name="software" />
   </Annotation>
   <Annotation about="mnova.eu/torrent/*">
     <Label name="p2p" />
@@ -3514,10 +3514,10 @@
   </Annotation>
   <Annotation about="800disk.com/xiazai/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="*.ovfile.com/*">
-    <Label name="网盘" />
+    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="simplecd.org/id/*" score="1">
@@ -3538,38 +3538,38 @@
   </Annotation>
   <Annotation about="*.qjwm.com/down*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="sub.eastgame.org/archives/*">
-    <Label name="字幕" />
+    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.uploadstation.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="*.file-post.net/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="*.min.us/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="*.jumbofiles.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="*.filekeen.com/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="load.to/*/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="mirrorcreator.com/files/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="网盘" />
+    <Label name="filehost" />
   </Annotation>
 </Annotations>
