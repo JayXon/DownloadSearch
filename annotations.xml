@@ -1,5 +1,122 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="torrentz.eu/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="torrentz.eu/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.eu/*=">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.eu/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.me/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.me/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.me/*=">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.me/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.ch/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="torrentz.ch/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.ch/*=">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.ch/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.in/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.in/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.in/*=">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.in/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz-proxy.com/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="torrentz-proxy.com/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz-proxy.com/*=">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz-proxy.com/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.hk/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.hk/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.hk/*=">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.hk/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.ph/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.ph/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.ph/*=">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.ph/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.com/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.com/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.com/*=">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.com/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.li/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.li/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.li/*=">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrentz.li/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="titlovi.com/titlovi/*-*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="subtitle" />
@@ -65,16 +182,6 @@
   <Annotation about="shoujikz.com/share/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
-  </Annotation>
-  <Annotation about="torrentz.ch/*=">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.ch/*-">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.ch/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
   </Annotation>
   <Annotation about="520bt.com/Item/*">
     <Label name="_cse_twgohm0sz8q" />
@@ -909,16 +1016,6 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="torrentz.li/*-">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.li/*=">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.li/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="dianying.fm/=*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
@@ -1157,45 +1254,6 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="torrentz.me/*=">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.me/*-">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.me/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.in/*-">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.in/*=">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.in/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.hk/*=">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.hk/*-">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.hk/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.ph/*-">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.eu/*-">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.com/*-">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="torrents.de/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
@@ -1203,13 +1261,6 @@
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrents.de/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.ph/*=">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.ph/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -1534,12 +1585,6 @@
   <Annotation about="torrentdownload.ws/*/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.com/*=">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.eu/*=">
-    <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="tencd.com/show-*.html">
     <Label name="p2p" />
@@ -2134,14 +2179,6 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="take.fm/*/*/releases/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentz.eu/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
-  <Annotation about="torrentz.com/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
