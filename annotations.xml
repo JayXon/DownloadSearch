@@ -3581,18 +3581,6 @@
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="*.uploadstation.com/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="filehost" />
-  </Annotation>
-  <Annotation about="*.file-post.net/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="filehost" />
-  </Annotation>
-  <Annotation about="*.min.us/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="filehost" />
-  </Annotation>
   <Annotation about="jumbofiles.com/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
