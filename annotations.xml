@@ -1894,10 +1894,6 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="*.minus.com/*">
-    <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="*.edudisk.cn/down.aspx?down=ok&amp;filepath=*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
@@ -2544,10 +2540,6 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="dynamic.xlpan.com/file/*/*-*">
-    <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="manybooks.net/titles/*.html">
     <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
@@ -3069,10 +3061,6 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="dynamic.xlpan.com/download?s=*">
-    <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="everbox.com/f/*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
@@ -3486,10 +3474,6 @@
   <Annotation about="down.it168.com/*/index.shtml" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
-  </Annotation>
-  <Annotation about="mnova.eu/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="demonoid.me/files/details/*">
     <Label name="p2p" />
