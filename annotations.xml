@@ -2989,6 +2989,10 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="limetorrents.cc/*-torrent-*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="gamestorrents.com/eng/*-torrent-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
