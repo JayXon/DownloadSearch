@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="apkmirror.com/apk/*">
+    <Label name="software" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="torrentz.eu/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
