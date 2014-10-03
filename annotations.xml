@@ -3565,7 +3565,11 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="*.qjwm.com/down*" score="1">
+  <Annotation about="*.qjwm.com/down*.html">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="filehost" />
+  </Annotation>
+  <Annotation about="*.7958.com/down*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
