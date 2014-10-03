@@ -2847,23 +2847,11 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="fileden.com/files/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="filehost" />
-  </Annotation>
   <Annotation about="box.com/shared/*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="box.net/shared/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="filehost" />
-  </Annotation>
-  <Annotation about="xun6.net/folder/*">
-    <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="xun6.net/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2879,7 +2867,7 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="ifile.it/*" score="1">
+  <Annotation about="filecloud.io/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2895,22 +2883,10 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="400disk.com/rfview_*.html" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="filehost" />
-  </Annotation>
-  <Annotation about="kuaipan.com.cn/file/id_*.htm" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="filehost" />
-  </Annotation>
   <Annotation about="shop.crsky.com/*.html">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentbit.net/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrindex.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -2926,19 +2902,7 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="anytorrentsdownload.com/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="torrentbar.com/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="bitwiki.org/en/torrents/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="pornevo.com/xxx/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -2960,11 +2924,6 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="linuxtracker.org/index.php?page=torrent-details&amp;id=*">
-    <Label name="p2p" />
-    <Label name="software" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="indytorrents.org/stats.html?info_hash=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -2974,14 +2933,6 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="btmon.com/*.torrent.html">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentbox.com/torrent_details?id=*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="youtorrent.com/*/*-*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -3041,15 +2992,7 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="51emule.com/ed2k/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="filecraft.com/download.php?f=*">
-    <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="searchizz.com/download/*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -3065,23 +3008,7 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="everbox.com/f/*">
-    <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="*.shvns.com/RegionDownloadService/*.html">
-    <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="163pan.com/files/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="filehost" />
-  </Annotation>
-  <Annotation about="p.gokuai.com/index.php?m=Index*">
-    <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="down.wmzhe.com/html/view-*.html">
+  <Annotation about="wmzhe.com/soft-*.htmll">
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
