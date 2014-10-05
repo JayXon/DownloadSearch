@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="cnscg.org/show-*.html">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
   <Annotation about="androidfilehost.com/?fid=*">
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
