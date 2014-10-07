@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="sharebeast.com/*">
+    <Label name="filehost" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="solidfiles.com/d/*">
+    <Label name="filehost" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="solidfiles.com/folder/*">
+    <Label name="filehost" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="animetosho.org/file/*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
