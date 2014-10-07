@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="vertor.eu/torrents/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="sharebeast.com/*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
