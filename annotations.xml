@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="animetosho.org/file/*">
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="animetosho.org/view/*">
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="animetosho.org/episode/*">
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="animetosho.org/series/*">
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="anonfiles.com/file/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
