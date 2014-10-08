@@ -592,7 +592,15 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="torrentlove.net/detail?*">
+  <Annotation about="torrentlove.net/bbs/board.php?bo_table=torrent_*wr_id=*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="torrentbest.net/bbs/board.php?bo_table=torrent_*wr_id=*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="tosarang.net/bbs/board.php?bo_table=torrent_*wr_id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
