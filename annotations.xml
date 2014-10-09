@@ -263,10 +263,6 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="superbay.net/torrent/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
   <Annotation about="shoujikz.com/share/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
@@ -548,6 +544,7 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
+  <!-- The Pirate Bay Start -->
   <Annotation about="thepiratebay.org/details.php?id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
@@ -556,18 +553,68 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="thepiratebay.ac/details.php?id=*">
+  <Annotation about="thepiratebay.org/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="thepiratebay.pe/torrent/*">
+  <Annotation about="thepiratebay.se/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="thepiratebay.ac/torrent/*">
+  <Annotation about="piratebay.org/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
+  <Annotation about="themobilebay.org/torrent/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <!-- Proxies -->
+  <Annotation about="thepiratebay.cr/torrent/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="thepiratebay.si/torrent/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="thepiratebay.hk/torrent/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="thepiratebay.cc/torrent/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="tpb-proxy.com/torrent/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="tpb.piraten.lu/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="tpb.par-anoia.net/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="pirateproxy.net/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="pirateproxy.bz/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="proxypirate.eu/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="baytorrent.eu/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <!-- The Pirate Bay End -->
   <Annotation about="fileswap.com/dl/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
@@ -838,14 +885,6 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="pirateproxy.me/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="piratereverse.info/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="katproxy.com/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -909,10 +948,6 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="thepiratebay.ee/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="*.nyaa.eu/?page=torrentinfo&amp;tid=*">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
@@ -938,10 +973,6 @@
   <Annotation about="shooter.cn/xml/sub/*.xml" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="subtitle" />
-  </Annotation>
-  <Annotation about="thepiratebay.sx/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yyets.com/*resource/*">
     <Label name="p2p" />
@@ -974,10 +1005,6 @@
   </Annotation>
   <Annotation about="an80.cc/*-*.html">
     <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="thepiratebay.is/torrent/*">
-    <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dlkoo.com/down/*/*.html">
@@ -1166,10 +1193,6 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="tpb.piraten.lu/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="yify-torrents.com/movie/*_*">
     <Label name="p2p" />
     <Label name="video" />
@@ -1263,10 +1286,6 @@
   </Annotation>
   <Annotation about="ebuk.cn/pdf/*.html">
     <Label name="document" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="tpb.par-anoia.net/torrent/*">
-    <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="qvocd.org/emule.php?vid-*.html">
@@ -1425,10 +1444,6 @@
   <Annotation about="coocd.com/show-*.html">
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="tpb.pirateparty.org.uk/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="portablefreeware.com/?id=*">
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
@@ -1520,10 +1535,6 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torfinder.net/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="pirateproxy.net/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -1726,15 +1737,6 @@
   </Annotation>
   <Annotation about="picofiles.com/*/*-*.html">
     <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="thepiratebay.se/tv/*/S*/">
-    <Label name="p2p" />
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="piratebay.org/torrent/*">
-    <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ufile.eu/*">
@@ -3197,10 +3199,6 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="thepiratebay.se/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="uploadstation.com/file/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
@@ -3261,6 +3259,10 @@
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bayfiles.com/file/*">
+    <Label name="filehost" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="bayfiles.net/file/*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -3652,10 +3654,6 @@
   <Annotation about="extratorrent.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="thepiratebay.org/torrent/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
   </Annotation>
   <Annotation about="*.qjwm.com/down*.html">
     <Label name="_cse_twgohm0sz8q" />
