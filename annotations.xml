@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="elitetorrent.xyz/torrent/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="alltollz.eu/t.php?id=*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="torrentlove.org/download-torrent.php?id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
