@@ -623,7 +623,11 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="torrentus.to/*-*.html">
+  <Annotation about="torrentus.si/*-*.html">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="torrentus.eu/*-*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
@@ -3075,7 +3079,7 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="torrentbox.com/torrent_details?id=*">
+  <Annotation about="torrentbox.sx/*/t*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -3368,7 +3372,7 @@
     <Label name="video" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="torrentcrazy.com/torrent/*">
+  <Annotation about="torrentcrazy.to/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -3599,9 +3603,6 @@
   <Annotation about="filedonkey.com/url/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentcrazy.com/03c/*">
-    <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="btscene.eu/details/*">
     <Label name="p2p" />
