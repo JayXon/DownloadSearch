@@ -275,6 +275,18 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
+  <Annotation about="btcherry.com/torrent/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="zhongziso.com/info-*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="cilisou.cn/info.php?info_hash=*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="demonoid.ph/files/details/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
@@ -456,10 +468,6 @@
     <Label name="p2p" />
     <Label name="music" />
   </Annotation>
-  <Annotation about="h33t.to/torrent/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
   <Annotation about="thepiratebay.org/details.php?id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
@@ -640,10 +648,6 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ed2000.com/ShowFile.asp?FileID=*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="iverycd.net/details/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -916,10 +920,6 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="etdown.net/k-*">
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="yzys.tv/subtitles/*">
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
@@ -1173,6 +1173,10 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="qvocd.com/emule.php?vid-*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="qvocd.org/emule.php?vid-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -1397,16 +1401,6 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="xiaopian.com/html/*index.html">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="xiaopian.com/html/*list*.html">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="xiaopian.com/html/*.html">
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="filesspy.com/download/*.html">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
@@ -1477,10 +1471,6 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="legittorrents.info/index.php?page=torrent-details&amp;id=*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="simplecd.me/entry/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -1803,6 +1793,10 @@
   <Annotation about="anzhi.com/soft_*.html">
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="400disk.com/rfview_*.html" score="1">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="kuaipan.cn/file/id_*.html">
     <Label name="filehost" />
@@ -2213,6 +2207,10 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+ <Annotation about="66ys.cc/*/20*/*.htm">
+   <Label name="video" />
+   <Label name="_cse_twgohm0sz8q" />
+</Annotation>
   <Annotation about="filetram.com/*/*-*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
@@ -2221,6 +2219,10 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
+ <Annotation about="token.lenovodata.com/checkAccessCode.php?code=*" score="1">
+   <Label name="_cse_twgohm0sz8q" />
+   <Label name="filehost" />
+</Annotation>
   <Annotation about="*.ys168.com/" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
@@ -2235,10 +2237,6 @@
   </Annotation>
   <Annotation about="www.unibytes.com/*B">
     <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="h33t.to/tor/*/*">
-    <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="vip-file.com/downloadlib/*/*.html">
@@ -2511,7 +2509,11 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="etdown.net/k-*">
+  <Annotation about="6vhao.com/*/*-*/*.html">
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="6vhao.net/*/*-*/*.html">
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -2534,6 +2536,16 @@
   <Annotation about="bestfreewaredownload.com/freeware/t-free-*.html">
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="dytt8.net/html/*.html">
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="dytt8.net/html/*index.html">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="dytt8.net/html/*list*.html">
+    <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dytt8.com/html/game/*.html">
     <Label name="software" />
@@ -2695,6 +2707,15 @@
   </Annotation>
   <Annotation about="torrentbit.net/torrent/*">
     <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrindex.com/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="linuxtracker.org/index.php?page=torrent-details&amp;id=*">
+    <Label name="p2p" />
+    <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="vertor.com/torrents/*">
@@ -2985,6 +3006,10 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
+  <Annotation about="torrentdownloads.net/torrent/*" score="1">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
   <Annotation about="torrentdownloads.me/torrent/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
@@ -3131,7 +3156,11 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="btmee.net/show/*">
+  <Annotation about="btmee.com/show/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="iverycd.com/details/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -3191,8 +3220,16 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="kickass.to/usearch/*">
+  <Annotation about="kat.ph/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="kat.ph/search/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="btscene.eu/details/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bts.to/*">
     <Label name="p2p" />
@@ -3214,6 +3251,10 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <!--Annotation about="torrents.net/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation-->
   <Annotation about="*.monova.org/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -3233,6 +3274,10 @@
   <Annotation about="sub.eastgame.org/archives/*">
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="load.to/*/*" score="1">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="filehost" />
   </Annotation>
   <Annotation about="jumbofiles.com/*">
     <Label name="_cse_twgohm0sz8q" />
