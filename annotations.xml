@@ -711,10 +711,6 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="subtitle" />
   </Annotation>
-  <Annotation about="kickmirror.com/*.html">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="storetorrent.com/bt/*.htm">
     <Label name="p2p" />
     <Label name="video" />
@@ -834,10 +830,32 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <!-- Kickass Torrents Start -->
   <Annotation about="kickass.to/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="kat.ph/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="kickasstor.eu/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="proxykat.eu/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="katproxy.com/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="kickmirror.com/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <!-- Kickass Torrents End -->
   <Annotation about="btscene.org/details/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -901,15 +919,7 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="katproxy.com/*.html">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="fenopyreverse.info/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="kickassunblock.info/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -3337,13 +3347,6 @@
   <Annotation about="h33t.to/torrent*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="kat.ph/*.html">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="kat.ph/search/*">
-    <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="btscene.eu/details/*">
     <Label name="p2p" />
