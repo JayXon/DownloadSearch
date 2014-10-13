@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="uppit.com/*">
+    <Label name="filehost" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="*.megashares.com/dl/*">
+    <Label name="filehost" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="*.megashares.com/*d01">
+    <Label name="filehost" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="filepup.net/files/*.html">
+    <Label name="filehost" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="jheberg.net/download/*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
