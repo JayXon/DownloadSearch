@@ -2039,10 +2039,6 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="depositfiles.com/*/files/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="filehost" />
-  </Annotation>
   <Annotation about="*.edudisk.cn/down.aspx?down=ok&amp;filepath=*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
