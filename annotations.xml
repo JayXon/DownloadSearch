@@ -622,6 +622,10 @@
     <Label name="p2p" />
   </Annotation>
   <!-- Proxies -->
+  <Annotation about="suprbay.net/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="baymirror.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
