@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="panda.cd/torrents/*-">
+    <Label name="p2p" />
+    <Label name="music" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="glodls.to/*-f-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
