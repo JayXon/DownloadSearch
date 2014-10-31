@@ -972,10 +972,6 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="fenopyreverse.info/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="deadfrog.us/entry.html?id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
