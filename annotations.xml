@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="tasvideos.org/*M.html">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="panda.cd/torrents/*-">
     <Label name="p2p" />
     <Label name="music" />
