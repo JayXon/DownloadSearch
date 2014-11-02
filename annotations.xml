@@ -1857,14 +1857,6 @@
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="movies.io/m/search?q=*">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="movies.io/m/*">
-    <Label name="p2p" />
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="wtorrent.org/torrents/*/*.html">
     <Label name="p2p" />
     <Label name="video" />
