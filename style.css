@@ -14,9 +14,10 @@ a:hover {
 
 .srch {
     width:640px;
+    height:40px;
     float:left;
     background-color:#fff;
-    padding:12px;
+    padding:0 12px;
     margin:20px;
     box-shadow:0 3px 6px rgba(0,0,0,.16),0 3px 6px rgba(0,0,0,.23);
     border-radius:2px;
@@ -32,14 +33,14 @@ a:hover {
 }
 
 .btn {
-    height:42px;
+    height:40px;
     float:left;
     background-color:#4285f4;
     position:absolute;
     top:12px;
     padding:8px 30px;
     border:0;
-    margin:10px 1px;
+    margin:9px 1px;
     cursor:pointer;
     border-radius:2px;
     text-align:center;
