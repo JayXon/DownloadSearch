@@ -1,4 +1,4 @@
-[Download Search](http://search.jayxon.com/)
+[![Download Search](logo.png)](http://search.jayxon.com/)
 ===============
 
 Download Search is a search engine for any kinds of files to download.
