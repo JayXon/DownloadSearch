@@ -865,8 +865,7 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="lesou.org/Show.php?m=*">
-    <Label name="p2p" />
+  <Annotation about="lesou.org/view/*.html">
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="libgen.info/view.php?id=*">
