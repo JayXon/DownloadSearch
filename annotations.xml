@@ -688,6 +688,18 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="thepiratebay.org.in/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="tpb.xyz/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="thepiratebay.rocks/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <!-- The Pirate Bay End -->
   <Annotation about="fileswap.com/dl/*">
     <Label name="_cse_twgohm0sz8q" />
