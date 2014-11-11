@@ -484,6 +484,28 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
+  <!-- EZTV start -->
+  <Annotation about="eztv.it/ep/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+    <Label name="video" />
+  </Annotation>
+  <Annotation about="eztv.it/shows/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+    <Label name="video" />
+  </Annotation>
+  <!-- Proxies -->
+  <Annotation about="ez-tv.in/ep/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+    <Label name="video" />
+  </Annotation>
+  <Annotation about="ez-tv.in/shows/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+    <Label name="video" />
+  </Annotation>
   <Annotation about="eztv-proxy.net/shows/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
@@ -494,6 +516,7 @@
     <Label name="p2p" />
     <Label name="video" />
   </Annotation>
+  <!-- EZTV end -->
   <Annotation about="changlai.net/?/file/view-*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
@@ -3197,16 +3220,6 @@
   </Annotation>
   <Annotation about="torrentdownloads.me/torrent/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
-  <Annotation about="eztv.it/ep/*">
-    <Label name="p2p" />
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="eztv.it/shows/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="video" />
     <Label name="p2p" />
   </Annotation>
   <Annotation about="torrentcrazy.to/torrent/*">
