@@ -454,14 +454,6 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="yifysubtitles.com/movie-imdb/tt*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="subtitle" />
-  </Annotation>
-  <Annotation about="yifysubtitles.com/subtitles/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="subtitle" />
-  </Annotation>
   <Annotation about="ffpan.com/share-*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
@@ -885,11 +877,6 @@
   </Annotation>
   <Annotation about="*.bookos.org/book/*">
     <Label name="document" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="yifyproxy.net/movie/*_*">
-    <Label name="p2p" />
-    <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="btspread.com/magnet/detail/hash/*">
@@ -1321,11 +1308,58 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="yify-torrents.com/movie/*_*">
+  <!-- YIFY Start -->
+  <Annotation about="yts.re/movie/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="yify-torrents.com/movie/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="yts.sh/movie/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="yts.pm/movie/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="yts.io/movie/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <!-- Proxies -->
+  <Annotation about="yify-torrent.org/movie/*.html">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="ytsre.eu/movie/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="yts.im/movie/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <!-- Subtitles -->
+  <Annotation about="yifysubtitles.com/movie-imdb/tt*">
+    <Label name="subtitle" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="yifysubtitles.com/subtitles/*">
+    <Label name="subtitle" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <!-- YIFY End -->
   <Annotation about="warez.ag/download/*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
@@ -3461,11 +3495,6 @@
   </Annotation>
   <Annotation about="extratorrent.com/torrent/*">
     <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="yts.re/movie/*">
-    <Label name="p2p" />
-    <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="*.qjwm.com/down*.html">
