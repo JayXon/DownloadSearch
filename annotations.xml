@@ -2455,10 +2455,10 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
- <Annotation about="66ys.cc/*/20*/*.htm">
-   <Label name="video" />
-   <Label name="_cse_twgohm0sz8q" />
-</Annotation>
+  <Annotation about="66ys.cc/*/20*/*.htm">
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="filetram.com/*/*-*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
@@ -2467,10 +2467,10 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
- <Annotation about="token.lenovodata.com/checkAccessCode.php?code=*" score="1">
-   <Label name="_cse_twgohm0sz8q" />
-   <Label name="filehost" />
-</Annotation>
+  <Annotation about="token.lenovodata.com/checkAccessCode.php?code=*" score="1">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="filehost" />
+  </Annotation>
   <Annotation about="*.ys168.com/" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
