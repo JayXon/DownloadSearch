@@ -660,6 +660,10 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
+  <Annotation about="194.71.107.80/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <!-- Proxies -->
   <Annotation about="suprbay.net/torrent/*">
     <Label name="p2p" />
@@ -682,6 +686,22 @@
     <Label name="p2p" />
   </Annotation>
   <Annotation about="thepiratebay.cc/torrent/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="thepiratebay.lv/torrent/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="thepiratebay.mg/torrent/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="thepiratebay.tn/torrent/*">
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="p2p" />
+  </Annotation>
+  <Annotation about="thepiratebay.je/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
@@ -2230,10 +2250,6 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentproject.com/*/">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="194.71.107.80/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
