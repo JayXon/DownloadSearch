@@ -940,6 +940,10 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <!-- Kickass Torrents Start -->
+  <Annotation about="kickass.so/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="kickass.to/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
