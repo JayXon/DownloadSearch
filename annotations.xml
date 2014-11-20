@@ -665,6 +665,14 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <!-- Proxies -->
+  <Annotation about="thepiratebay2.se/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="bayproxy.ch/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="suprbay.net/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -722,6 +730,10 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="pirateproxy.bz/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="pirateproxy.ws/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
