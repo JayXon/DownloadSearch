@@ -1130,10 +1130,6 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
   </Annotation>
-  <Annotation about="shooter.cn/xml/sub/*.xml" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="subtitle" />
-  </Annotation>
   <Annotation about="yyets.com/*resource/*">
     <Label name="p2p" />
     <Label name="video" />
