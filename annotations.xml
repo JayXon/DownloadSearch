@@ -1001,6 +1001,10 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="kickass.filesoup.com/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <!-- Kickass Torrents End -->
   <Annotation about="btscene.org/details/*">
     <Label name="p2p" />
