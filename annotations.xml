@@ -1763,18 +1763,6 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="top100.cn/download/*">
-    <Label name="music" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="top100.cn/song/*">
-    <Label name="music" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="top100.cn/album/*.shtml">
-    <Label name="music" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="linuxtracker.org/index.php?page=details&amp;id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
