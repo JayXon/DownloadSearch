@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="post-rock.ru/albums/*.html">
+    <Label name="music" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="mega-search.me/link-*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
