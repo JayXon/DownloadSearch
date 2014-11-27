@@ -1211,15 +1211,6 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="yzys.tv/subtitles/*">
-    <Label name="subtitle" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="yzys.tv/resource/*">
-    <Label name="p2p" />
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="rarbg.com/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -3411,10 +3402,10 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="yzys.tv/*.html*">
+  <!--Annotation about="yzys.tv/*.html*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
-  </Annotation>
+  </Annotation-->
   <Annotation about="downg.com/soft/*.html" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
