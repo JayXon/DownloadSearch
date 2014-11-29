@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="popcorn.cab/movie/*/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="popcorn.cab/tv/show/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="subom.net/sinfo/*">
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
