@@ -1174,12 +1174,21 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
   </Annotation>
-  <Annotation about="yyets.com/*resource/*">
+  <Annotation about="yyets.com/resource/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="yyets.com/*subtitle/*">
+  <Annotation about="yyets.com/subtitle/*">
+    <Label name="subtitle" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="rrys123.com/resource/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="rrys123.com/subtitle/*">
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
