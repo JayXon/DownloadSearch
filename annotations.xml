@@ -479,10 +479,6 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="demonoid.ph/files/details/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
   <Annotation about="*.torrentz.pro/*-download-torrent-*.php">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
@@ -3518,10 +3514,20 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
+  <!-- Demonoid Start -->
+  <Annotation about="demonoid.pw/files/details/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="demonoid.ph/files/details/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="demonoid.me/files/details/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <!-- Demonoid End -->
   <Annotation about="h33t.to/torrent*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
