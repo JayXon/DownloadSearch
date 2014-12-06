@@ -1857,12 +1857,6 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="coolapk.com/*/tag/*">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="coolapk.com/*/sns/*">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="coolapk.com/game/*/">
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
@@ -3174,14 +3168,6 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="dl.3dmgame.com/*/*.html">
-    <Label name="software" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="coolapk.com/game-*">
-    <Label name="software" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="coolapk.com/apk-*">
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
