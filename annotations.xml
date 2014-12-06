@@ -3327,10 +3327,6 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="5inet.net/View/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="mininova.org/tor/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
