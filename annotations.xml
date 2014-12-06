@@ -3526,11 +3526,6 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="ishare.iask.sina.com.cn/f/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="document" />
-    <Label name="filehost" />
-  </Annotation>
   <Annotation about="down.it168.com/*/index.shtml" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
