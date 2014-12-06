@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="sub.makedie.me/xml/sub/*.xml">
+    <Label name="subtitle" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="byhh.org/*-*">
     <Label name="p2p" />
     <Label name="video" />
