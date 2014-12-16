@@ -1183,12 +1183,22 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
   </Annotation>
+  <!-- YYeTs Start -->
   <Annotation about="yyets.com/resource/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yyets.com/subtitle/*">
+    <Label name="subtitle" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="rrys123.com/resource/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="rrys123.com/subtitle/*">
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -1201,6 +1211,16 @@
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="zimuzu.tv/resource/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="zimuzu.tv/subtitle/*">
+    <Label name="subtitle" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <!-- YYeTs End -->
   <Annotation about="subtitlesbank.com/*subtitles/movieid-*/">
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
