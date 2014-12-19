@@ -1175,10 +1175,6 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="fenopy.se/torrent/*/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="1i3.com/detail/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
