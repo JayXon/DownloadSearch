@@ -3499,6 +3499,11 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
   </Annotation>
+  <Annotation about="up.hdscg.com/?id=*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+    <Label name="video" />
+  </Annotation>
   <Annotation about="share.popgo.org/program-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
