@@ -3025,6 +3025,14 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="btsnoop.come.in/*-q*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="bitsnoop.socialtorrent.net/*-q*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="3adisk.com/down_*.shtml" score="1">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
@@ -3231,12 +3239,6 @@
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="bitsnoop.com/browse/*">
-    <Label name="_cse_exclude_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="bitsnoop.com/popular/*">
-    <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="bayfiles.com/file/*">
     <Label name="filehost" />
