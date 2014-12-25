@@ -899,9 +899,17 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="subscene.com/subtitles/*/*">
-    <Label name="_cse_twgohm0sz8q" />
+  <Annotation about="subscene.com/subtitles/*">
     <Label name="subtitle" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="subscene.com/*/*/subtitle-*.aspx">
+    <Label name="subtitle" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="tinysub.net/subtitles/*">
+    <Label name="subtitle" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="storetorrent.com/bt/*.htm">
     <Label name="p2p" />
@@ -2037,10 +2045,6 @@
   </Annotation>
   <Annotation about="rarbg.com/torrents/filmi/download/*/torrent.html">
     <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="subscene.com/*/*/subtitle-*.aspx">
-    <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="wtorrent.org/torrents/*/*.html">
