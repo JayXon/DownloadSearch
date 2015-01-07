@@ -2544,10 +2544,6 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="yfdisk.com/file/*/*">
-    <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="www.unibytes.com/*B">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
@@ -3254,9 +3250,13 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="yunfile.com/file/*" score="1">
-    <Label name="_cse_twgohm0sz8q" />
+  <Annotation about="*.yunfile.com/fs/*">
     <Label name="filehost" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="*.yunfile.com/file/*">
+    <Label name="filehost" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="vdisk.cn/down/index/*" score="1">
     <Label name="_cse_twgohm0sz8q" />
