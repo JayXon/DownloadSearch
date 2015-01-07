@@ -2298,6 +2298,10 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="torrentproject.se/*/">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="subsmax.com/subtitles-movie/*">
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
