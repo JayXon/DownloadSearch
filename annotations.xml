@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="btku.org/detail/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="thefile.me/*.html">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
