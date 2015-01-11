@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="cililian.org/hash/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="sobt.org/magnet/hash/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
