@@ -588,12 +588,20 @@
     <Label name="p2p" />
   </Annotation>
   <Annotation about="h31bt.com/btshow.aspx?hash=*">
-    <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="h31bt.com/torrent/*.html">
-    <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="h31bt1.com/btshow.aspx?hash=*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="h31bt1.com/torrent/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="btup.net/info/*">
     <Label name="_cse_twgohm0sz8q" />
