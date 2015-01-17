@@ -635,26 +635,46 @@
     <Label name="filehost" />
   </Annotation>
   <!-- EZTV start -->
-  <Annotation about="eztv.it/ep/*">
-    <Label name="_cse_twgohm0sz8q" />
+  <Annotation about="eztv.ch/ep/*">
     <Label name="p2p" />
     <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="eztv.ch/shows/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="eztv.it/ep/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="eztv.it/shows/*">
-    <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <!-- Proxies -->
-  <Annotation about="ez-tv.in/ep/*">
-    <Label name="_cse_twgohm0sz8q" />
+  <Annotation about="eztv.bitproxy.eu/ep/*">
     <Label name="p2p" />
     <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="eztv.bitproxy.eu/shows/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="ez-tv.in/ep/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="ez-tv.in/shows/*">
-    <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="eztv-proxy.net/shows/*">
     <Label name="_cse_twgohm0sz8q" />
