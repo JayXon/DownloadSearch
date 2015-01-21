@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="laigc.com/movie/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="laigc.com/movie/list/*">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="btspread.cn/show-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
