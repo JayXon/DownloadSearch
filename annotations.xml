@@ -322,9 +322,10 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <!-- Torrentz Start -->
   <Annotation about="torrentz.eu/*">
-    <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentz.eu/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
@@ -349,8 +350,8 @@
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentz.ch/*">
-    <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentz.ch/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
@@ -375,8 +376,8 @@
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentz-proxy.com/*">
-    <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentz-proxy.com/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
@@ -439,6 +440,33 @@
   <Annotation about="torrentz.li/*/">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="tz.ai/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="tz.ai/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="tz.ai/*=">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="tz.ai/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrents.de/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrents.de/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrents.de/*=">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="torrents.de/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <!-- Torrentz End -->
   <Annotation about="titlovi.com/titlovi/*-*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="subtitle" />
