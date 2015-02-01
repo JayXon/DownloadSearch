@@ -1158,6 +1158,10 @@
     <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="elibgen.org/view.php?id=*">
+    <Label name="document" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="filepuma.com/download/*">
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
