@@ -1523,6 +1523,10 @@
     <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="*.bookzz.org/book/*">
+    <Label name="document" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="publichd.se/index.php?page=torrent-details&amp;id=*">
     <Label name="p2p" />
     <Label name="video" />
