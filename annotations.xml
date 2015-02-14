@@ -2676,10 +2676,6 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="www.filehost.ws/*">
-    <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="appifan.com/app-*.html">
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
