@@ -3557,11 +3557,11 @@
   <Annotation about="verycd.com/topics/*comments">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="wenku.baidu.com/view/*" score="1">
+  <Annotation about="wenku.baidu.com/view/*" score="-1.0">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="document" />
   </Annotation>
-  <Annotation about="docin.com/p-*.html" score="1">
+  <Annotation about="docin.com/p-*.html" score="-1.0">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="document" />
   </Annotation>
