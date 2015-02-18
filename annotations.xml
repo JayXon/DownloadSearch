@@ -3538,6 +3538,10 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="1337x.to/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="1337x.org/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
