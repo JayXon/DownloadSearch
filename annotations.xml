@@ -761,7 +761,7 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
-  <Annotation about="skycn.com/soft/appid/*.html" score="1">
+  <Annotation about="skycn.com/soft/appid/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
@@ -1309,7 +1309,7 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="xdowns.com/soft/*/*/20*oft_*.html" score="1">
+  <Annotation about="xdowns.com/soft/*/*/20*oft_*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
@@ -1454,7 +1454,7 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="turbobit.net/*.html" score="1">
+  <Annotation about="turbobit.net/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2031,7 +2031,7 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="extabit.com/file/*" score="1">
+  <Annotation about="extabit.com/file/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2178,7 +2178,7 @@
     <Label name="music" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="uploading.com/files/*" score="1">
+  <Annotation about="uploading.com/files/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2186,11 +2186,11 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="uploaded.to/file/*" score="1">
+  <Annotation about="uploaded.to/file/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="2shared.com/document/*.html" score="1">
+  <Annotation about="2shared.com/document/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
     <Label name="document" />
@@ -2219,7 +2219,7 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="*.gokuai.com/f/*" score="1">
+  <Annotation about="*.gokuai.com/f/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2227,7 +2227,7 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="ziddu.com/download/*" score="1">
+  <Annotation about="ziddu.com/download/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2239,7 +2239,7 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="400disk.com/rfview_*.html" score="1">
+  <Annotation about="400disk.com/rfview_*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2258,7 +2258,7 @@
   <Annotation about="dmxz.zerodm.cn/xiazai/*.html">
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="crocko.com/*" score="1">
+  <Annotation about="crocko.com/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2325,7 +2325,7 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="filejungle.com/f/*" score="1">
+  <Annotation about="filejungle.com/f/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2483,23 +2483,23 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="sharereactor.ru/movies/*" score="1">
+  <Annotation about="sharereactor.ru/movies/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
   </Annotation>
-  <Annotation about="netload.in/*.htm" score="1">
+  <Annotation about="netload.in/*.htm">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="dl.dbank.com/*" score="1">
+  <Annotation about="dl.dbank.com/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
   <Annotation about="filestube.com/trends/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="filestube.com/*/*.html" score="1">
+  <Annotation about="filestube.com/*/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2652,19 +2652,19 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="6disk.com/file/*" score="1">
+  <Annotation about="6disk.com/file/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="token.lenovodata.com/checkAccessCode.php?code=*" score="1">
+  <Annotation about="token.lenovodata.com/checkAccessCode.php?code=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="*.ys168.com/" score="1">
+  <Annotation about="*.ys168.com/">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="mediafire.com/?*" score="1">
+  <Annotation about="mediafire.com/?*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2684,7 +2684,7 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="skydrive.live.com/?cid=*id=*" score="1">
+  <Annotation about="skydrive.live.com/?cid=*id=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2692,7 +2692,7 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="slideshare.net/*/*-*" score="1">
+  <Annotation about="slideshare.net/*/*-*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="document" />
   </Annotation>
@@ -2724,7 +2724,7 @@
     <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="furk.net/df/*" score="1">
+  <Annotation about="furk.net/df/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2765,7 +2765,7 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="4shared.com/*/*.html" score="1">
+  <Annotation about="4shared.com/*/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -2918,7 +2918,7 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="onlinedown.net/soft/*.htm" score="1">
+  <Annotation about="onlinedown.net/soft/*.htm">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
@@ -3079,19 +3079,19 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="howfile.com/ls/*" score="1">
+  <Annotation about="howfile.com/ls/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="kuai.xunlei.com/d/*" score="1">
+  <Annotation about="kuai.xunlei.com/d/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="brsbox.com/filebox/*" score="1">
+  <Annotation about="brsbox.com/filebox/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="163disk.com/fileview_*.html" score="1">
+  <Annotation about="163disk.com/fileview_*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3099,11 +3099,11 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="box.net/shared/*" score="1">
+  <Annotation about="box.net/shared/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="filefactory.com/file/*" score="1">
+  <Annotation about="filefactory.com/file/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3111,15 +3111,15 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="freakshare.com/folder/*.html" score="1">
+  <Annotation about="freakshare.com/folder/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="filecloud.io/*" score="1">
+  <Annotation about="filecloud.io/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="bitshare.com/?*" score="1">
+  <Annotation about="bitshare.com/?*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3131,7 +3131,7 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="3adisk.com/down_*.shtml" score="1">
+  <Annotation about="3adisk.com/down_*.shtml">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3269,7 +3269,7 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="letitbit.net/download/*" score="1">
+  <Annotation about="letitbit.net/download/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3285,7 +3285,7 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="uploadstation.com/file/*" score="1">
+  <Annotation about="uploadstation.com/file/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3354,11 +3354,11 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="fileserve.com/file/*" score="1">
+  <Annotation about="fileserve.com/file/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="good.gd/*.htm" score="1">
+  <Annotation about="good.gd/*.htm">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3374,11 +3374,11 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="vdisk.cn/down/index/*" score="1">
+  <Annotation about="vdisk.cn/down/index/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="rayfile.com/*/files/*" score="1">
+  <Annotation about="rayfile.com/*/files/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3406,7 +3406,7 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="rapidshare.com/files/*" score="1">
+  <Annotation about="rapidshare.com/files/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3425,15 +3425,15 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="mininova.org/tor/*" score="1">
+  <Annotation about="mininova.org/tor/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="torrentdownloads.net/torrent/*" score="1">
+  <Annotation about="torrentdownloads.net/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="torrentdownloads.me/torrent/*" score="1">
+  <Annotation about="torrentdownloads.me/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
@@ -3441,7 +3441,7 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="bittorrent.am/download-torrent/*.html" score="1">
+  <Annotation about="bittorrent.am/download-torrent/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
@@ -3457,11 +3457,11 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="download.pchome.net/*/detail-*.html" score="1">
+  <Annotation about="download.pchome.net/*/detail-*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
-  <Annotation about="dl.pconline.com.cn/download/*.html" score="1">
+  <Annotation about="dl.pconline.com.cn/download/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
@@ -3469,15 +3469,15 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="drivers.mydrivers.com/download/*" score="1">
+  <Annotation about="drivers.mydrivers.com/download/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
-  <Annotation about="myfiles.com.cn/soft/*.htm" score="1">
+  <Annotation about="myfiles.com.cn/soft/*.htm">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
-  <Annotation about="crsky.com/soft/*.html" score="1">
+  <Annotation about="crsky.com/soft/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
@@ -3501,7 +3501,7 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="126disk.com/fileview_*.html" score="1">
+  <Annotation about="126disk.com/fileview_*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3554,7 +3554,7 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="downg.com/soft/*.html" score="1">
+  <Annotation about="downg.com/soft/*.html">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
@@ -3569,7 +3569,7 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="document" />
   </Annotation>
-  <Annotation about="down.qiannao.com/space/file/*" score="1">
+  <Annotation about="down.qiannao.com/space/file/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3625,7 +3625,7 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="down.it168.com/*/index.shtml" score="1">
+  <Annotation about="down.it168.com/*/index.shtml">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="software" />
   </Annotation>
@@ -3695,7 +3695,7 @@
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="load.to/*/*" score="1">
+  <Annotation about="load.to/*/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
@@ -3709,7 +3709,7 @@
   <Annotation about="jumbofiles.com/user/*">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="mirrorcreator.com/files/*" score="1">
+  <Annotation about="mirrorcreator.com/files/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
