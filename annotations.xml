@@ -2507,10 +2507,6 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="seedpeer.com/details/*.html">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="yourbittorrent.com/torrent/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -3613,10 +3609,20 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
   </Annotation>
-  <Annotation about="seedpeer.me/details/*.html">
+  <!-- Seedpeer Start -->
+  <Annotation about="*.seedpeer.eu/details/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="*.seedpeer.com/details/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="*.seedpeer.me/details/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <!-- Seedpeer End -->
   <Annotation about="sumotorrent.sx/en/details/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
