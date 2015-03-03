@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="ebooks.lib.ntu.edu.tw/1_file/*">
+    <Label name="document" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="blah.me/book/*">
     <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
