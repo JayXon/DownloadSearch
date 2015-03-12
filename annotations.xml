@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="tuebl.ca/serie/*">
+    <Label name="document" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="tuebl.ca/books/*">
+    <Label name="document" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="tuebl.ca/*/tagged/*">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="gqpdf.com/*.html">
     <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
