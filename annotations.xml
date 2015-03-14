@@ -1108,6 +1108,10 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="vitorrent.cc/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="vitorrent.org/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
