@@ -1406,11 +1406,6 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="public3d.se/torrent?id=*">
-    <Label name="p2p" />
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="tvsubs.net/subtitle-*.html">
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
