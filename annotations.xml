@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="getstrike.net/torrents/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="getstrike.net/*p">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="tuebl.ca/serie/*">
     <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
