@@ -3195,10 +3195,6 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="indytorrents.org/stats.html?info_hash=*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="ilcorsaronero.info/tor/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
