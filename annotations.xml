@@ -104,6 +104,11 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="zydh123.net/*.html">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="zydh123.com/*.html">
     <Label name="p2p" />
     <Label name="video" />
