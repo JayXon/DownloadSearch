@@ -1438,6 +1438,10 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="rarbg.to/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="hdmeiju.com/*all">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
@@ -2162,10 +2166,6 @@
   </Annotation>
   <Annotation about="moviesubtitles.net/subtitles-details/*/*">
     <Label name="subtitle" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="rarbg.com/torrents/filmi/download/*/torrent.html">
-    <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="wtorrent.org/torrents/*/*.html">
