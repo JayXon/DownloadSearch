@@ -74,6 +74,7 @@ a:hover {
 .center {
     position:absolute;
     left:50%;
+    -webkit-transform: translate(-50%,0);
     transform:translate(-50%,0)
 }
 
