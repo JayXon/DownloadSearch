@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="zimuzu.tv/resource/list/*">
+    <Label name="p2p" />
+    <Label name="video" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="zimuzu.tv/subtitle/*">
+    <Label name="subtitle" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="girlshare.ro/*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
