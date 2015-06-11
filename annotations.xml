@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="flashtorrents.org/torrents-details.php?id=*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="*.aletorrenty.pl/index.php?page=torrent-details&amp;id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
