@@ -263,6 +263,14 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="thepiratebay.glodls.to/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="*.glotorrents.com/*-f-*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="uppit.com/*">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
