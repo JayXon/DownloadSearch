@@ -1583,11 +1583,6 @@
     <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="publichd.se/index.php?page=torrent-details&amp;id=*">
-    <Label name="p2p" />
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <!-- YIFY Start -->
   <Annotation about="yts.to/movie/*">
     <Label name="p2p" />
