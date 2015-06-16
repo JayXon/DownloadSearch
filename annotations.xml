@@ -1251,6 +1251,10 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <!-- Kickass Torrents Start -->
+  <Annotation about="kat.cr/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="kickass.to/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -1260,19 +1264,11 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <!-- Proxies -->
-  <Annotation about="katph.eu/*.html">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="proxykat.eu/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="katproxy.com/*.html">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="kickmirror.com/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
