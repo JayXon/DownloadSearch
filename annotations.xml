@@ -1219,6 +1219,10 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="btava.com/magnet/detail/hash/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="ed2000.com/ShowFile.asp?FileID=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
