@@ -1276,6 +1276,14 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <!-- Proxies -->
+  <Annotation about="kickasstorrents.video/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="kickass-torrent.ytsre.eu/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="proxykat.eu/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
