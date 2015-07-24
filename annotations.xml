@@ -1613,11 +1613,6 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="yts.re/movie/*">
-    <Label name="p2p" />
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="yify-torrents.com/movie/*">
     <Label name="p2p" />
     <Label name="video" />
@@ -1628,28 +1623,18 @@
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="yts.pm/movie/*">
+  <Annotation about="yts.io/movie/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="yts.io/movie/*">
+  <Annotation about="yts.im/movie/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <!-- Proxies -->
   <Annotation about="yify-torrent.org/movie/*.html">
-    <Label name="p2p" />
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="ytsre.eu/movie/*">
-    <Label name="p2p" />
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="yts.im/movie/*">
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
