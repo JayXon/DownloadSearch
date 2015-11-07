@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="*.cilitu.com/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="*.cilitu.com/*a">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="piratehd.com/index.php?page=torrent-details&amp;id=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
