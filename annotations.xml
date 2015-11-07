@@ -1534,22 +1534,41 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="xiaohx.com/*i">
+  <Annotation about="xiaohx.net/*i">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="xiaohx.com/*a">
+  <Annotation about="xiaohx.net/*a">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="xiaohx.com/*/">
+  <Annotation about="xiaohx.net/*/">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="xiaohx.com/*-">
+  <Annotation about="xiaohx.net/*-">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="xiaohx.com/*e">
+  <Annotation about="xiaohx.net/*e">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="xiaohx.com/*">
+  <Annotation about="xiaohx.net/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="xiaohx001.com/*i">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="xiaohx001.com/*a">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="xiaohx001.com/*/">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="xiaohx001.com/*-">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="xiaohx001.com/*e">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="xiaohx001.com/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
