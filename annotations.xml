@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="*.findbt.org/detail/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="res.alai.net/download/*">
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
