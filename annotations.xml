@@ -121,6 +121,10 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="btkitty.so/torrent/*.html">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="btkitty.org/torrent/*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
