@@ -1192,6 +1192,11 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <!-- vitorrent Start -->
+  <Annotation about="vitorrentz.tv/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="vitorrent.cc/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -1200,6 +1205,11 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
+  <Annotation about="vitorrent.net/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <!-- vitorrent End -->
   <Annotation about="vpan.cc/file-*.html">
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
