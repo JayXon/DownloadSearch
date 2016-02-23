@@ -22,10 +22,6 @@
   <Annotation about="*.cilitu.com/*a">
     <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="piratehd.com/index.php?page=torrent-details&amp;id=*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="animerg.net/torrents/id/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -137,10 +133,6 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="cililian.org/hash/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="sobt.org/magnet/hash/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -173,10 +165,6 @@
   </Annotation>
   <Annotation about="btku.org/detail/*">
     <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="thefile.me/*.html">
-    <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="cili001.com/*.html">
@@ -262,13 +250,6 @@
   <Annotation about="subom.net/sinfo/*">
     <Label name="subtitle" />
     <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrents.fm/*-*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
-  <Annotation about="torrents.fm/search/*">
-    <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="torrentexpress.net/*">
     <Label name="_cse_twgohm0sz8q" />
@@ -2399,10 +2380,6 @@
   </Annotation>
   <Annotation about="down20.com/file/*/">
     <Label name="filehost" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="55bt.eu/*,*/*.html">
-    <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="yanzibt.com/bt/*">
