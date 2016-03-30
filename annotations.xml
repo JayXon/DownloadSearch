@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="hiflac.com/music/*">
+    <Label name="music" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="hiflac.com/music/category/*">
+    <Label name="_cse_exclude_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="*.sci-hub.io/*.pdf">
     <Label name="document" />
     <Label name="_cse_twgohm0sz8q" />
