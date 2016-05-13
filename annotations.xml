@@ -301,10 +301,6 @@
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="thepiratebay.glodls.to/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="*.glotorrents.com/*-f-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -985,36 +981,8 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
-  <Annotation about="thepiratebay.am/torrent/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
-  <Annotation about="thepiratebay.gd/torrent/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
-  <Annotation about="thepiratebay.la/torrent/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
-  <Annotation about="thepiratebay.mn/torrent/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
-  <Annotation about="thepiratebay.net/torrent/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
-  <Annotation about="thepiratebay.vg/torrent/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
-  <Annotation about="themobilebay.org/torrent/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
   <!-- Proxies -->
-  <Annotation about="thepiratebay.cc/torrent/*">
+  <Annotation about="thepiratebay.bz/torrent/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
@@ -1038,6 +1006,10 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
   </Annotation>
+  <Annotation about="thepiratebay.website/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="thepiratebay.org.in/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -1047,6 +1019,10 @@
     <Label name="p2p" />
   </Annotation>
   <Annotation about="pirateproxy.sx/torrent/*">
+    <Label name="p2p" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
+  <Annotation about="pirateproxy.pe/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -1063,10 +1039,6 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="thepiratebeach.eu/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="baytorrent.eu/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
