@@ -927,10 +927,6 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="document" />
   </Annotation>
-  <Annotation about="simpled2k.com/entries/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
   <Annotation about="pan.baidu.com/netdisk/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
@@ -938,10 +934,6 @@
   <Annotation about="pan.baidu.com/wap/link?*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
-  </Annotation>
-  <Annotation about="getcd.org/topic/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
   </Annotation>
   <Annotation about="as.baidu.com/a/item?docid=*">
     <Label name="_cse_twgohm0sz8q" />
@@ -1114,10 +1106,6 @@
   <Annotation about="pan.baidu.com/s/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
-  </Annotation>
-  <Annotation about="xsimplecd.com/d/*.html">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
   </Annotation>
   <Annotation about="subscene.com/subtitles/*">
     <Label name="subtitle" />
@@ -1344,15 +1332,7 @@
     <Label name="filehost" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="dy1010.com/resource/*/*.html">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="zzke.com/torrent/details/infohash/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="torrentkittycn.com/show/infohash/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -1369,11 +1349,6 @@
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="tokyotosho.se/details.php?id=*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="video" />
-  </Annotation>
-  <Annotation about="bt.sc-ol.com/show-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
     <Label name="video" />
@@ -2271,10 +2246,6 @@
     <Label name="filehost" />
     <Label name="document" />
   </Annotation>
-  <Annotation about="*.simplecd.org/entry/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="emuleday.com/download/*-*.html">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
@@ -2422,9 +2393,6 @@
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="isohunt.com/*comments">
-    <Label name="_cse_exclude_twgohm0sz8q" />
   </Annotation>
   <Annotation about="d1dianying.com/?a=download&amp;id=*">
     <Label name="video" />
@@ -3585,20 +3553,11 @@
     <Label name="software" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
-  <Annotation about="bt.ktxp.com/html/*.html">
-    <Label name="p2p" />
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
   <Annotation about="13bt.com/Get.asp?KeyID=*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
   <Annotation about="1337x.to/torrent/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="1337x.org/torrent/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -3625,23 +3584,7 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="document" />
   </Annotation>
-  <Annotation about="down.qiannao.com/space/file/*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="filehost" />
-  </Annotation>
   <Annotation about="btmee.net/show/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="iverycd.com/details/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="iverycd.net/details/*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="simplecd.me/entry/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
   </Annotation>
@@ -3653,21 +3596,6 @@
   <Annotation about="icili.com/emule/download/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="up.dream2008.cn/?id=*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="video" />
-  </Annotation>
-  <Annotation about="up.hdscg.com/?id=*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="video" />
-  </Annotation>
-  <Annotation about="share.popgo.org/program-*.html">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="video" />
   </Annotation>
   <!-- Seedpeer Start -->
   <Annotation about="*.seedpeer.eu/details/*.html">
