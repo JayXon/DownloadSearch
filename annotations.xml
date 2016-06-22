@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Annotations>
+  <Annotation about="ishare.iask.sina.com.cn/f/*">
+    <Label name="document" />
+    <Label name="filehost" />
+    <Label name="_cse_twgohm0sz8q" />
+  </Annotation>
   <Annotation about="btkiss.net/hash/*">
     <Label name="p2p" />
     <Label name="_cse_twgohm0sz8q" />
