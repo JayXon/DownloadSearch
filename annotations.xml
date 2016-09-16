@@ -910,12 +910,12 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="*.nyaa.se/?page=torrentinfo&amp;tid=*">
+  <Annotation about="*.nyaa.se/*tid=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
   </Annotation>
-  <Annotation about="*.nyaa.se/?page=view&amp;tid=*">
+  <Annotation about="*.nyaa.ws/*tid=*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
