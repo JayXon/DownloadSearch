@@ -918,12 +918,7 @@
     <Label name="_cse_twgohm0sz8q" />
     <Label name="filehost" />
   </Annotation>
-  <Annotation about="*.nyaa.se/*tid=*">
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-    <Label name="video" />
-  </Annotation>
-  <Annotation about="*.nyaa.ws/*tid=*">
+  <Annotation about="*.nyaa.si/view/*">
     <Label name="_cse_twgohm0sz8q" />
     <Label name="p2p" />
     <Label name="video" />
@@ -1418,16 +1413,6 @@
     <Label name="p2p" />
     <Label name="video" />
     <Label name="_cse_twgohm0sz8q" />
-  </Annotation>
-  <Annotation about="*.nyaa.eu/?page=torrentinfo&amp;tid=*">
-    <Label name="video" />
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="p2p" />
-  </Annotation>
-  <Annotation about="*.nyaa.eu/?page=view&amp;tid=*">
-    <Label name="p2p" />
-    <Label name="_cse_twgohm0sz8q" />
-    <Label name="video" />
   </Annotation>
   <Annotation about="bittrend.com/*-torrent.html">
     <Label name="p2p" />
